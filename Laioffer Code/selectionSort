@@ -1,0 +1,19 @@
+public class SelectionSort{
+    public void selectionSort(int[] array){
+      // corner case
+      if ( array == null || array.length < 0){
+        return ;
+      }
+      for ( int j =0; j <array.length; j++) {
+        int minValueIndex = j;
+        for(int i = j; i< array.length; i++){
+          if (array[i] < array[minValueIndex]){
+            minValueIndex = i;
+          }
+        }
+        int temp = array[minValueIndex];
+        array[minValueIndex] = array[j];
+        array[j] = temp;
+      }
+    }
+}

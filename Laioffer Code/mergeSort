@@ -1,0 +1,46 @@
+public class Solution {
+  public int[] mergeSort(int[] array) {
+    // check null array first.
+    if( array == null || array.length == 0){
+      return array;
+    }    
+    mergeSort(array, 0, array.length - 1 );
+    return array;
+  }
+  
+  private void mergeSort(int[] array, int left, int right){
+    if (left >= right){
+      return;
+    }
+    int mid = left + (right - left)/2;
+    mergeSort(array, left, mid);
+    mergeSort(array, mid + 1, right);
+    merge(array, left, mid, right);
+  } 
+    private void merge (int[] array, int left, int mid, int right){
+      int [] newArr = new int[array.length];
+      for (int i = left; i <= right; i++){
+        newArr[i] = array[i];
+      }
+      int i = left;
+      int j = mid +1;
+      int idx = left;
+      while(i <= mid && j <= right){
+        if (newArr[i] < newArr[j]){
+          array[idx] = newArr[i];
+          i++;
+          idx++;
+        }
+        else{
+          array[idx] = newArr[j];
+          j++;
+          idx++;
+  }
+      }
+      while (i <= mid){
+        array[idx] = newArr[i];
+        i++;
+        idx++;
+      }
+    }  
+}
