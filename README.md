@@ -1,6 +1,6 @@
 # JAVA Study
 ##基础知识  
-[1.] (http://www.google.com/ "Google")
+[1.] (http://www.google.com/ "Google")  
 1.1 Primive Types    
 1.2 Operators and Precedence  
 2.  
