@@ -1,0 +1,17 @@
+public class Solution {
+  public int[] rainbowSort(int[] array) {
+    // Write your solution here
+    int i = 0, j = 0, k = arr.length - 1;
+    while ( j<= k){
+      if(arr[j] == 1){
+        swap(array,i,j);
+        i++;
+        j++;
+      }else if{array[j] = 2){
+        j++;
+      }else{
+        swap(array, j, k);
+        k--;
+      }
+  }
+}
