@@ -1,0 +1,10 @@
+//07/14
+public class minValue {
+    public static void main (String[] args){
+        int x = 1;
+        double y = x;
+        System.out.println( " " + x +": y = " + y);
+    }
+}
+// byte -> short-> int-> long -> float -> double 
+// Widening ->
