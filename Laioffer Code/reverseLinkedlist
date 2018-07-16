@@ -12,3 +12,6 @@ public class reverseLinkedlist {
     return prev;
 }
 }
+//如果将 next = head.next写在外面 
+//需要多写两个check 1） head ！= null 2） next！=null
+//Time O(n)  Space O(1) 
