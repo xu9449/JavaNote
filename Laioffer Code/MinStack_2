@@ -1,0 +1,48 @@
+  public MinStack() {
+    // write your solution here
+  }
+  Deque<integer> stack = new LinkedList<>();
+  Deque<integer> minStack = new LinkedList<>();
+  
+  public boolean isEmpty(){
+    return stack.isEmpty();
+  }
+
+  public int size(){
+    return stack.size();
+  }
+  
+  public int pop() {
+   if (stack.isEmpty()){
+     return null;
+   }
+    int t = stack.pop();
+    if(t == minStack.peek()){
+    minStack.pop();
+    }
+    return t;
+  }
+
+  public integer peek(){
+    if (stack.isEmpty()) {
+    return null;
+    }
+    return stack.peek();
+  }
+  }
+  
+  public void push(int element) {
+    stack.push(element);
+    if(minStqack.isEmpty() || element <= minStqack.peek()){
+    minStack.push(element)
+    }
+   
+  }
+  
+  public integer min() {
+    if (minStack.is Empty()){
+      return null;
+    }
+    return minStack.peek();
+  }
+  }
