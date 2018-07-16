@@ -1,0 +1,14 @@
+public class reverseLinkedlist {
+  public ListNode reverse(ListNode head) {
+    // Write your solution here
+    ListNode prev = null, cur = head;
+    while(cur!= null){
+      ListNode next = cur.next;  
+      cur.next = prev;  
+      prev = cur;
+      cur = next;
+      
+  }
+    return prev;
+}
+}
