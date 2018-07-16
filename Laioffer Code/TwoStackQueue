@@ -1,0 +1,47 @@
+public class Solution {
+  public Solution() {
+// Write your solution here.
+  }
+  Deque<Integer> in = new LinkedList<>();  
+  Deque<Integer> out = new LinkedList<>();
+
+  public Integer poll() {
+if(out.isEmpty()){
+  shuffle();
+}
+if(out.isEmpty()){
+ 
+return null;
+  }
+return out.pop();
+  }
+
+  public void offer(int element) {
+in.push(element);
+  }
+
+  public Integer peek() {
+if(out.isEmpty()){
+  shuffle();
+  }
+if(out.isEmpty()){
+  return null;}
+
+   return out.peek();
+  }
+
+
+  public int size() {
+return in.size() + out.size();
+
+  }
+
+  public boolean isEmpty() {
+    return in.isEmpty() && out.isEmpty();
+  }
+  private void shuffle(){
+    while(!in.isEmpty()){
+      out.push(in.pop());
+  }
+}
+}
