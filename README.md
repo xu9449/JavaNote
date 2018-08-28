@@ -1,4 +1,8 @@
-[学习笔记](https://github.com/xu9449/JAVA/wiki)
+[学习笔记](https://github.com/xu9449/JAVA/wiki) 
+
+基础课   
+Is Prime Number  
+
 试听01   
 1. Sorting Alogorithms  
   1.1 Selection Sort （JAVA）  
