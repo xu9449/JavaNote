@@ -1,0 +1,113 @@
+public class Goldbach {
+	public static void main(String[] args) {
+		int [] arr = {2, 4, 5, 1, -2};
+		int element = 5;
+		int position = 2;
+		int [] arr3 = new Goldbach1().insert(arr, element, position);
+		System.out.print(arr3);
+	}
+}
+
+
+public class Goldbach1 {
+	public int[] insert(int arr[],int element, int position) {
+		int[] arr2 = new int[] {};
+		for ( int i = 0; i < position; i ++) {
+			arr2[i] = arr[i];
+		}
+		arr2[position] = element;
+		for (int j = position + 1; j < arr.length + 1; j ++) {
+			arr2[j] = arr[j -1];
+		}		
+	return arr2;
+			}	
+}
+// can not work 
+// Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 0
+	at Goldbach1.insert(Goldbach1.java:6)
+	at Goldbach.main(Goldbach.java:7)
+
+
+import java.util.Arrays;
+
+public class Goldbach {
+	public static void main(String[] args) {
+		int [] arr = {2, 4, 5, 1, -2};
+		int element = 5;
+		int position = 2;
+		int [] arr3 = new Goldbach1().insert(arr, element, position);
+		System.out.println(Arrays.toString(arr3));
+	}
+}
+
+
+public class Goldbach1 {
+	public int[] insert(int[] arr,int element, int position) {
+		//int[] arr2 = new int[] {};
+		int[] arr2 = new int[arr.length + 1];
+		position = Math.min(arr.length, position); // added
+		for ( int i = 0; i < position; i ++) {
+			arr2[i] = arr[i];
+		}
+		arr2[position] = element;
+		
+		for (int j = position + 1; j < arr.length + 1; j ++) {
+			arr2[j] = arr[j -1];
+		}
+		
+		
+	return arr2;
+			}
+
+			// when you print array, you need to use Array.toString();
+
+		public int[] reverse(int[] arr) {
+		int[] arr2 = new int[arr.length];
+		// remind that j = arr.length -1;
+		for(int i = 0, j = arr.length; i<arr.length; i++, j--) {
+			arr2[i] = arr[j-1];
+		}
+		return arr2;
+	}
+	
+}
+// Trace
+
+import java.util.Arrays;
+
+public class Goldbach {
+	public static void main(String[] args) {
+		int [] [] matrix = new int [][] {{1,3,4}, {3,4,6}, {3, -2,-1}};
+		/* int[][] matrix = {
+		 * {1,3,4};
+		 * {3,4,4};
+		 * {-1,0,-1}};
+		 */
+		
+		int[] arr2 = new Goldbach1().trace(matrix);
+		int result = arr2[0]+arr2[1]+arr2[2];
+	System.out.println("diag(matrix)="+ arr2[0] + "+"+ arr2[1] + "+" + arr2[2]+ "=" +result);
+
+}
+}
+
+	public int[] trace(int[] [] matrix) {
+		// do not forget corner case!!
+		
+		/* if ( matrix.length != matrix[0].length){
+		 system.out.println(...)
+		else {
+		 int n = matrix.length;
+		 int trace = 0;
+		 for (int i =0; i <n; i++){
+		 trace = += maxrix[i][i];
+		 }
+		*/
+		int[] arr2 = new int [3];
+		for ( int i = 0,  m = 0, n = 0; i<3; i++,m++,n++) {
+			arr2[i] = matrix[m][n];
+		}
+		return arr2;
+	}
+	
+}
