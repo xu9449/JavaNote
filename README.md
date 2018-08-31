@@ -14,7 +14,17 @@ Calculate the maximum value of an array  (Java)
 增强for循环 
 for ( 声明语句 : 表达式）//声明新的局部变量，该变量的类型必须和数组元素的类型匹配，作用于限定在循环语句块，其值与此时数组元素的值相等。）  
 Integer.MIN_VALUE;  
-max = (max > i) ? max : i
+max = (max > i) ? max : i  
+  
+为什么（串行）搜索极限是nlogn  
+N个元素的N！种可能排列只需要log(n!)就排查完了 log(n!)~nlogn
+   https://www.zhihu.com/question/24516934   
+为什么堆排比快排快  
+
+   （并行）搜索极限是O(log^2n)  Bitonic sorter 和 Batcher odd-even mergesort  
+   
+   
+      
 试听01   
 1. Sorting Alogorithms  
   1.1 Selection Sort （JAVA）  
