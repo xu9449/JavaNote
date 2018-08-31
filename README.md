@@ -24,3 +24,18 @@ max = (max > i) ? max : i
     1.2.1 e.g. A1B2C3D4 -> ABCD 1234 (JAVA)
     1.2.2 e.g. ABCD1234 -> A1B2C3D4 (JAVA)  
   1.3 Quick Sort
+  
+6. Heap & Graph Search Algorithm 
+  6.1 introduce Heap (binary heap)
+  Build a heap (JAVA)
+    6.1.1 insert ()
+    6.1.2 pop () 
+    无论插入或删除都从队尾做文章
+    6.1.3 update（）不太常见  
+    heapify(heapsort)(java) O(n）
+    slower than quicksort, its worst-case(O(n log n) , in-place algorith, but it is  not a stable sort.  
+   Q1. Find the smallest k elements from an unsorted array of size n. (Java)  
+   O(nlogn)    
+   min heap vs. max heap  (JAVA)
+   
+   
