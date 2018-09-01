@@ -36,7 +36,8 @@ N个元素的N！种可能排列只需要log(n!)就排查完了 log(n!)~nlogn
     1.2.1 e.g. A1B2C3D4 -> ABCD 1234 (JAVA)
     1.2.2 e.g. ABCD1234 -> A1B2C3D4 (JAVA)  
   1.3 Quick Sort
-  
+     
+      
 6. Heap & Graph Search Algorithm 
   6.1 introduce Heap (binary heap)
   Build a heap (JAVA)
