@@ -28,7 +28,7 @@ N个元素的N！种可能排列只需要log(n!)就排查完了 log(n!)~nlogn
    
       
 试听01   
-1. Sorting Alogorithms  
+1.Sorting Alogorithms  
   1.1 Selection Sort （JAVA）  
     1.1.2 Fibonacci （JAVA）  
     1.1.3 Use 3 stacks to implement sorting   
@@ -38,7 +38,7 @@ N个元素的N！种可能排列只需要log(n!)就排查完了 log(n!)~nlogn
   1.3 Quick Sort
      
       
-6. Heap & Graph Search Algorithm   
+6.Heap & Graph Search Algorithm   
   6.1 introduce Heap (binary heap)  
   Build a heap (JAVA)  
     6.1.1 insert ()
