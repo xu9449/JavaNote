@@ -21,7 +21,9 @@ N个元素的N！种可能排列只需要log(n!)就排查完了 log(n!)~nlogn
    https://www.zhihu.com/question/24516934   
 为什么堆排比快排快  
 
-   （并行）搜索极限是O(log^2n)  Bitonic sorter 和 Batcher odd-even mergesort  
+   （并行）搜索极限是O(log^2n)  Bitonic sorter 和 Batcher odd-even mergesort    
+
+   
    
    
       
