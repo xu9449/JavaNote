@@ -46,7 +46,8 @@ N个元素的N！种可能排列只需要log(n!)就排查完了 log(n!)~nlogn
       
 6.Heap & Graph Search Algorithm   
   6.1 introduce Heap (binary heap)  
-  Build a heap MinHeap [Java](https://github.com/xu9449/JAVA-Algorithm/blob/master/Laioffer%20Code/minHeap)  
+  Build a heap   
+  [MinHeap] (https://github.com/xu9449/JAVA-Algorithm/blob/master/Laioffer%20Code/minHeap)  
     6.1.1 insert ()  
     6.1.2 pop () 
     无论插入或删除都从队尾做文章  
