@@ -40,15 +40,15 @@ N个元素的N！种可能排列只需要log(n!)就排查完了 log(n!)~nlogn
       
 6.Heap & Graph Search Algorithm   
   6.1 introduce Heap (binary heap)  
-  Build a heap (JAVA)  
-    6.1.1 insert ()
+  Build a heap (JAVA)    
+    6.1.1 insert ()  
     6.1.2 pop () 
-    无论插入或删除都从队尾做文章
+    无论插入或删除都从队尾做文章  
     6.1.3 update（）不太常见  
-    heapify(heapsort)(java) O(n）
+    heapify(heapsort)(java)
     slower than quicksort, its worst-case(O(n log n) , in-place algorith, but it is  not a stable sort.  
    Q1. Find the smallest k elements from an unsorted array of size n. (Java)  
    O(nlogn)    
-   min heap vs. max heap  (JAVA)
+   min heap vs. max heap  
    
    
