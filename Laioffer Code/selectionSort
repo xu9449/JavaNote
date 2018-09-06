@@ -1,4 +1,12 @@
-public class SelectionSort{
+Document your assumptions
+Explain your approach and how you intend to solve the problem
+Provide code comments where applicable
+Explain the big-O run time complexity of your solution. Justify your answer
+Identify any additional data structures you used and justfy why you use them
+Only provide your best anser to each part of the question 
+    
+      
+ public class SelectionSort{
     public void selectionSort(int[] array){
       // corner case
       if ( array == null || array.length < 0){
