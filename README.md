@@ -6,3 +6,9 @@
 5. Identify any additional data structures you used and justfy why you use them  
 6. Only provide your best anser to each part of the question
   
+Sorting & Partitioning  
+Selection Sort  
+Merge Sort  
+Quick Sort  
+Move 0s To The End I 
+Rainbow Sort 
