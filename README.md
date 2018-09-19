@@ -6,7 +6,7 @@
 5. Identify any additional data structures you used and justfy why you use them  
 6. Only provide your best anser to each part of the question
   
-Sorting & Partitioning  经典例题
+Sorting & Partitioning  （经典例题）  
 Selection Sort  
 Merge Sort  
 Quick Sort  
