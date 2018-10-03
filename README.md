@@ -10,8 +10,10 @@ Sorting & Partitioning
   
 Given a sorted array from 0,1,2,3...to n, and there is only one missing number in it, how to find it?   
 [经典例题](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/%E7%BB%8F%E5%85%B8%E4%BE%8B%E9%A2%981)  
+  
+Given an array stored in Stack1, how to sort the numbers by using additional two stacks  
+[Using one temp stack](https://www.geeksforgeeks.org/sort-stack-using-temporary-stack/)  
 
-Selection Sort  
 Merge Sort  
 Quick Sort  
 Move 0s To The End I 
