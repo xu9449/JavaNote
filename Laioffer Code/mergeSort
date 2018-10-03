@@ -1,5 +1,7 @@
 Recursion  
-
+  
+ 一头扎到底 深度优先  
+ 
 ''' 
 public class Solution {
   public int[] mergeSort(int[] array) {
