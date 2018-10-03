@@ -1,6 +1,6 @@
 Recursion  
 
-'''  
+''' 
 public class Solution {
   public int[] mergeSort(int[] array) {
     // check null array first.
@@ -15,7 +15,7 @@ public class Solution {
     if (left >= right){
       return;
     }
-    int mid = left + (right - left)/2;
+    int mid = left + (right - left)/2; //防止溢出
     mergeSort(array, left, mid);
     mergeSort(array, mid + 1, right);
     merge(array, left, mid, right);
