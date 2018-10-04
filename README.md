@@ -22,7 +22,7 @@ Selection Sort
 Merge Sort    
 [Code](https://github.com/xu9449/Interesting-Algorithm-_-Java/blob/master/Laioffer%20Code/mergeSort)  
   
-[MergeSort的四种变种](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/_new)  
+[MergeSort的四种变种](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/MergeSort-%E7%9A%84%E5%9B%9B%E7%A7%8D%E5%8F%98%E7%A7%8D)  
  
 
 Quick Sort  
