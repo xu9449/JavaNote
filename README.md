@@ -23,6 +23,7 @@ Merge Sort
 [Code](https://github.com/xu9449/Interesting-Algorithm-_-Java/blob/master/Laioffer%20Code/mergeSort)  
   
 MergeSort的四种变种  
+A1B2C3D4 -> ABCD1234  
 
 Quick Sort  
 Move 0s To The End I 
