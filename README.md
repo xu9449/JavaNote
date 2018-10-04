@@ -5,7 +5,10 @@
 4. Explain the big-O run time complexity of your solution. Justify your answer  
 5. Identify any additional data structures you used and justfy why you use them  
 6. Only provide your best anser to each part of the question
-  
+
+目录  
+--- 
+
 Sorting & Partitioning    
   
 Given a sorted array from 0,1,2,3...to n, and there is only one missing number in it, how to find it?   
@@ -13,8 +16,11 @@ Given a sorted array from 0,1,2,3...to n, and there is only one missing number i
   
 Given an array stored in Stack1, how to sort the numbers by using additional two stacks  
 [Using one temp stack](https://www.geeksforgeeks.org/sort-stack-using-temporary-stack/)  
+  
+Selection Sort  
+Merge Sort    
+[Code](https://github.com/xu9449/Interesting-Algorithm-_-Java/blob/master/Laioffer%20Code/mergeSort)  
 
-Merge Sort  
 Quick Sort  
 Move 0s To The End I 
 Rainbow Sort 
