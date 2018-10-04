@@ -21,6 +21,8 @@ Selection Sort
 [Code](https://github.com/xu9449/Interesting-Algorithm-_-Java/blob/master/Laioffer%20Code/selectionSort)  
 Merge Sort    
 [Code](https://github.com/xu9449/Interesting-Algorithm-_-Java/blob/master/Laioffer%20Code/mergeSort)  
+  
+MergeSort的四种变种  
 
 Quick Sort  
 Move 0s To The End I 
