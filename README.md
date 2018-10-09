@@ -26,5 +26,6 @@ Merge Sort
  
 
 Quick Sort  
-Move 0s To The End I 
+[Move 0s To The End I](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Move-0s-to-the-End-I)   
+
 Rainbow Sort 
