@@ -33,3 +33,4 @@ Rainbow Sort
 
 Practice Class 01 
 final 修饰的是reference reference不能指向其他东西，只能修改指向的内容。
+Array vs object
