@@ -8,7 +8,7 @@
 
 目录  
 --- 
-
+Class 01
 Sorting & Partitioning    
   
 Given a sorted array from 0,1,2,3...to n, and there is only one missing number in it, how to find it?   
@@ -31,6 +31,6 @@ Quick Sort
 
 Rainbow Sort (skip)
 
-Practice Class 01 
+Practice Class 01   
 final 修饰的是reference reference不能指向其他东西，只能修改指向的内容。  
 [Array vs object](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Array-vs-object)
