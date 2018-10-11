@@ -30,3 +30,6 @@ Quick Sort
 总结：比如 swap (array, L ++, R --)会在运行完function之后进行 ++ -- 运算，保证了代码整洁度，且设置左右向中点扫描方式减少了代码运算复杂度
 
 Rainbow Sort 
+
+Practice Class 01 
+final 修饰的是reference reference不能指向其他东西，只能修改指向的内容。
