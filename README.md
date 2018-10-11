@@ -29,8 +29,8 @@ Quick Sort
 [Move 0s To The End I](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Move-0s-to-the-End-I)   
 总结：比如 swap (array, L ++, R --)会在运行完function之后进行 ++ -- 运算，保证了代码整洁度，且设置左右向中点扫描方式减少了代码运算复杂度
 
-Rainbow Sort 
+Rainbow Sort (skip)
 
 Practice Class 01 
-final 修饰的是reference reference不能指向其他东西，只能修改指向的内容。
-【Array vs object】（https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Array-vs-object）
+final 修饰的是reference reference不能指向其他东西，只能修改指向的内容。  
+[Array vs object]（https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Array-vs-object）
