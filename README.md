@@ -38,4 +38,4 @@ final 修饰的是reference reference不能指向其他东西，只能修改指�
 ### Recursion I & Binary Search  
 
 [Fibonachi sequence](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Fibonacci-sequence)  
-Example question: how to calculate a^b
+Example question: [how to calculate a^b](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/how-to-calculate-a%5Eb)
