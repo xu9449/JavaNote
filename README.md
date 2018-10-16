@@ -52,7 +52,10 @@ Solution 2 : optimization O (log n + log k)
 Binarey Search Variant 2.0 :孙老师面试题  
 
 ### Queue & Stack   
-  
+
+题目   
+---
+
 Question 1 How could we implement a queue by using two stacks?  
 Worst caseTime = O ( 2n + 1) = O (n)
 Amortized time complexity 
