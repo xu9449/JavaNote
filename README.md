@@ -43,4 +43,4 @@ int 是 primitive type， 不可能是null。
 考虑括号里是小于还是小于等于的时候，考虑只有一个元素的时候。检查base case  
 Binargy Search  
 [Variant 1.1 how to find an element in the array that is clsest to the target number? ](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/variant-1.1.-how-to-find-an-element-in-the-array-that-is-closest-to-the-target-number%3F)
-[Variant 1.2 find the first occurance in the array]
+[Variant 1.2 return the index of the index of the first occurrence of an element](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Variant-1.2-return-the-index-of-the-first-occurrence-of-an-element)
