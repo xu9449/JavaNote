@@ -49,6 +49,7 @@ step1: binary search
 step2: 谁小移谁  
 Time = O(log (n) + k)  
 Solution 2 : optimization O (log n + log k)  
-Binarey Search Variant 2.9 :  
+Binarey Search Variant 2.0 :孙老师面试题  
+
 
 
