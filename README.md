@@ -9,8 +9,8 @@
 目录  
 --- 
  
-Class 01  Sorting & Partitioning    
-  
+## Class 01  Sorting & Partitioning    
+### 题目
 Given a sorted array from 0,1,2,3...to n, and there is only one missing number in it, how to find it?   
 [经典例题](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/%E7%BB%8F%E5%85%B8%E4%BE%8B%E9%A2%981)  
   
@@ -31,12 +31,14 @@ Quick Sort
 
 Rainbow Sort (skip)
 
-### Practice Class 01   
+## Practice Class 01  
+### 题目
+## Practice Class 01     
 final 修饰的是reference reference不能指向其他东西，只能修改指向的内容。  
 [Array vs object](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Array-vs-object)
 
-### Recursion I & Binary Search  
-
+## Recursion I & Binary Search  
+### 题目
 [Fibonachi sequence](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Fibonacci-sequence)  
 Example question: [how to calculate a^b](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/how-to-calculate-a%5Eb)
 int 是 primitive type， 不可能是null。  
@@ -51,9 +53,9 @@ Time = O(log (n) + k)
 Solution 2 : optimization O (log n + log k)  
 Binarey Search Variant 2.0 :孙老师面试题  
 
-### Queue & Stack   
+## Queue & Stack   
 
-## 题目   
+### 题目   
 
 Question 1 How could we implement a queue by using two stacks?  
 Worst caseTime = O ( 2n + 1) = O (n)
