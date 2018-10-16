@@ -43,4 +43,10 @@ int 是 primitive type， 不可能是null。
 考虑括号里是小于还是小于等于的时候，考虑只有一个元素的时候。检查base case  
 Binargy Search  
 [Variant 1.1 how to find an element in the array that is clsest to the target number? ](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/variant-1.1.-how-to-find-an-element-in-the-array-that-is-closest-to-the-target-number%3F)
-[Variant 1.2 return the index of the index of the first occurrence of an element](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Variant-1.2-return-the-index-of-the-first-occurrence-of-an-element)
+[Variant 1.2 return the index of the index of the first occurrence of an element](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Variant-1.2-return-the-index-of-the-first-occurrence-of-an-element)  
+Variant 1.4 return how to find closest k elements in the array that is closest to a target number?  
+step1: binary search  
+step2: 谁小移谁  
+Time = O(log (n) + k)  
+Solution 2 : optimization O (log n + log k)
+
