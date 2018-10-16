@@ -51,5 +51,16 @@ Time = O(log (n) + k)
 Solution 2 : optimization O (log n + log k)  
 Binarey Search Variant 2.0 :孙老师面试题  
 
+### Queue & Stack   
+  
+Question 1 How could we implement a queue by using two stacks?  
+Worst caseTime = O ( 2n + 1) = O (n)
+Amortized time complexity 
+  
+Question 2: How to implement tht min() function when using stack with time cimplexity O(1):
+Solution 1 : we keep the contents from stack1 and stack2 in synchronization    
+Follow up question : 
+Assume there are a lot of duplicate elements in the input, how to optimize the space usage of stack2 ?  
+Question 3 How to sort numbers with tree stacks   
 
 
