@@ -69,4 +69,6 @@ Assume there are a lot of duplicate elements in the input, how to optimize the s
   
 Question 3 How to sort numbers with tree （two) stacks   ?
 
-
+Question 4 How to use multiple Stacks to implement a dequeue?  
+follow up : use 3 stacks to improve the time complexity of pop() operation.  
+ 
