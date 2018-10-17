@@ -43,7 +43,7 @@ final 修饰的是reference reference不能指向其他东西，只能修改指�
 Example question: [how to calculate a^b](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/how-to-calculate-a%5Eb)
 int 是 primitive type， 不可能是null。  
 考虑括号里是小于还是小于等于的时候，考虑只有一个元素的时候。检查base case  
-Binargy Search  
+[Classic Binargy Search](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Classic-Binary-Search)  
 [Variant 1.1 how to find an element in the array that is clsest to the target number? ](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/variant-1.1.-how-to-find-an-element-in-the-array-that-is-closest-to-the-target-number%3F)  
 [Variant 1.2 return the index of the index of the first occurrence of an element](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Variant-1.2-return-the-index-of-the-first-occurrence-of-an-element)  
 Variant 1.4 return how to find closest k elements in the array that is closest to a target number?  
