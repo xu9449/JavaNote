@@ -57,7 +57,9 @@ step1: binary search
 step2: 谁小移谁  
 Time = O(log (n) + k)  
 Solution 2 : optimization O (log n + log k)  
-Binarey Search Variant 2.0 :孙老师面试题  
+Binarey Search Variant 2.0 :孙老师面试题   
+
+[First Ocurrance](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/First-Occurence)
 
 ## Queue & Stack   
 
