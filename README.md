@@ -46,7 +46,9 @@ int 是 primitive type， 不可能是null。
   
 [Classic Binargy Search](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Classic-Binary-Search)  
   
-[Search in Sorted Matrix I](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Search-In-Sorted-Matrix-I)
+[Search in Sorted Matrix I](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Search-In-Sorted-Matrix-I) . 
+  
+[First Ocurrance](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/First-Occurence)
   
 [Variant 1.1 how to find an element in the array that is clsest to the target number? ](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/variant-1.1.-how-to-find-an-element-in-the-array-that-is-closest-to-the-target-number%3F)  
   
@@ -59,7 +61,6 @@ Time = O(log (n) + k)
 Solution 2 : optimization O (log n + log k)  
 Binarey Search Variant 2.0 :孙老师面试题   
 
-[First Ocurrance](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/First-Occurence)
 
 ## Queue & Stack   
 
