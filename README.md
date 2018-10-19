@@ -63,7 +63,8 @@ Binarey Search Variant 2.0 :孙老师面试题
 ### 关于 binary search中 left <= right | < right | < right - 1 的探讨  
 最后一位如果向右找 不写right = mid + 1 容易达不到    
 classic binary tree 用的是 <= right   
-如果是 是 +1 的情况，一定要写成<= ， 否则达不到最后一个数
+如果是 是 +1 的情况，一定要写成<= ， 否则达不到最后一个数  
+所以我们所说的 < right -1 ;其实是留两个数，然后通过最后的减法来算出来哪个比较靠近。
 
 
 ## Queue & Stack   
