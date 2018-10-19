@@ -48,7 +48,9 @@ int 是 primitive type， 不可能是null。
   
 [Search in Sorted Matrix I](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Search-In-Sorted-Matrix-I) . 
   
-[First Ocurrance](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/First-Occurence)
+[First Ocurrance](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/First-Occurence)  
+  
+[Last Ocurrance](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Last-Occur)
   
 [Variant 1.1 how to find an element in the array that is clsest to the target number? ](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/variant-1.1.-how-to-find-an-element-in-the-array-that-is-closest-to-the-target-number%3F)  
   
