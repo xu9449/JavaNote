@@ -7,8 +7,10 @@
 5. Identify any additional data structures you used and justfy why you use them  
 6. Only provide your best anser to each part of the question
 
-目录  
---- 
+# 目录  
+---   
+## 专题
+### 1 Array [...](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Array)
  
 ## Class 01  Sorting & Partitioning    
 
