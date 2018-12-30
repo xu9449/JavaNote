@@ -10,7 +10,7 @@
 # 目录  
 ---   
 ## 专题
-### 1 Array [...](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Array)
+### 1 Array [1](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Array)
  
 ## Class 01  Sorting & Partitioning    
 
