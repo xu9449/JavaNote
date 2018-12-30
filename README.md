@@ -10,9 +10,9 @@
 # 目录  
 ---   
 ## 专题
-### 1 Array [1](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Array)
+### Array [1](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Array)
  
-## Class 01  Sorting & Partitioning    
+### Sorting & Partitioning    
 
 Given a sorted array from 0, 1, 2, 3...to n, and there is only one missing number in it, how to find it?   
 [经典例题](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/%E7%BB%8F%E5%85%B8%E4%BE%8B%E9%A2%981)  
