@@ -11,7 +11,7 @@
 ---   
 ## 专题
 ### Array [1](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Array) 
-### Sorting & Partitioning 
+### Sorting & Partitioning [2](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/01-Sorting-Algorithm) . 
 
 Given a sorted array from 0, 1, 2, 3...to n, and there is only one missing number in it, how to find it?   
 [经典例题](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/%E7%BB%8F%E5%85%B8%E4%BE%8B%E9%A2%981)  
