@@ -10,7 +10,7 @@
 # 目录  
 ---   
 ## 专题
-### 基础知识 
+### 基础知识 [Link]()
 ### Array [1](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Array) 
 ### Sorting & Partitioning [2](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/01-Sorting-Algorithm) . 
 
