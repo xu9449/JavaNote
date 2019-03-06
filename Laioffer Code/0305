@@ -1,7 +1,7 @@
 Selection Sort:
 
 Test: 
-'''
+'
 public class SortingAlgorithm {
     public static void main(String[] args) {
         int[] test = {1, 0, 5, 1, -3, 4};
@@ -37,39 +37,5 @@ public class SortingAlgorithm {
 
 
 }
-public class SortingAlgorithm {
-    public static void main(String[] args) {
-        int[] test = {1, 0, 5, 1, -3, 4};
-        int[] result = new int[test.length];
-        result = SelectionSort(test);
-        System.out.println(Arrays.toString(result));
 
-    }
-
-    public static int[] SelectionSort(int[] array) {
-        if (array == null || array.length == 0) {
-            return array;
-        }
-
-        for (int i = 0; i < array.length; i++) {
-
-            for (int j = i + 1; j < array.length; j++) {
-                if (array[j] < array[i]) {
-                    Swap(array, i, j);
-                }
-            }
-
-        }
-        return array;
-    }
-
-    public static int[] Swap(int[] array, int i, int j) {
-        int temp = array[i];
-        array[i] = array[j];
-        array[j] = temp;
-        return array;
-    }
-
-
-}
-'''
+'
