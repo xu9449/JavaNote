@@ -1,0 +1,31 @@
+//Design an accumulator, which can take a new integer using function “add”,
+// and can return the sum of all taken integers up to now using function “sum”.
+public class Accumulator {
+    int result = 1;
+
+    public static void main(String[] args) {
+
+
+        Accumulator solution = new Accumulator();
+        int a = 2;
+        solution.add(a);
+        System.out.print(solution);
+
+    }
+    public Accumulator() {
+
+    }
+
+    public void add(int x) {
+       result = result + x;
+       sum();
+
+
+
+    }
+
+    public int sum() {
+        return result;
+
+    }
+}
