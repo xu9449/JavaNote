@@ -1,0 +1,20 @@
+public class Solution {
+  public int[] search(int[][] matrix, int target) {
+    
+        int rows = matrix.length;
+        int columns = matrix[0].length;
+        int[] result = {-1, -1};
+        for (int M = 0; M < rows; M++) {
+
+            for (int N = 0; N < columns; N++) {
+                if (matrix[M][N] == target) {
+                    result[0] = M;
+                    result[1] = N;
+
+                }
+
+            }
+        }
+        return result;
+    }
+} 
