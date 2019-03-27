@@ -15,7 +15,7 @@
 ### Binary Search 
 [Classical Binary Search](https://github.com/xu9449/Interesting-Algorithm-_-Java/blob/master/Laioffer%20Code/Binary%20Search)   
 [Search in Sorted Matrix I](https://github.com/xu9449/Interesting-Algorithm-_-Java/blob/master/Laioffer%20Code/Search%20in%20Sorted%20Matrix%20I)   
-[Closest In Sorted Array](https://github.com/xu9449/Interesting-Algorithm-_-Java/blob/master/Laioffer%20Code/Closest%20In%20Sorted%20Array)
+[Closest In Sorted Array](https://github.com/xu9449/Interesting-Algorithm-_-Java/blob/master/Laioffer%20Code/Closest%20In%20Sorted%20Array)   
 [First Occurence](https://github.com/xu9449/Interesting-Algorithm-_-Java/blob/master/Laioffer%20Code/First%20Occurrence)
 
 ### Sorting & Partitioning [2](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/01-Sorting-Algorithm) . 
