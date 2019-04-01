@@ -1,0 +1,42 @@
+Insertion Sort
+
+import java.util.Arrays;
+
+public class SortingAlgorithm {
+    public static void main(String[] args) {
+        SortingAlgorithm solution = new SortingAlgorithm();
+        int[] test = {1, 0, 5, 1, -3, 4};
+        int[] result = solution.insertionSort(test);
+        System.out.println(Arrays.toString(result));
+
+    }
+        public int[] insertionSort(int[] array) {
+
+            int left;
+            int right;
+            int n = array.length;
+            int[] result = new int[n];
+            for (left = 0; left < n - 1; left++) {
+                int mid = left;
+                for ( right = mid + 1; right < n; right++) {
+                    if ( array[right] < array[mid]){
+                        int help = array[right];
+                        array[right] = array[left];
+                        array[mid] =  help;
+                    }
+
+                    }
+
+                }
+                left++;
+
+            
+
+            return array;
+        }
+
+
+
+
+
+}
