@@ -1,0 +1,56 @@
+// Selection Sort
+
+import java.util.Arrays;
+
+public class SortingAlgorithm {
+    public static void main(String[] args) {
+        SortingAlgorithm solution = new SortingAlgorithm();
+        int[] test = {1, 0, 5, 1, -3, 4};
+        int[] result = solution.SelectionSort(test);
+        System.out.println(Arrays.toString(result));
+
+    }
+
+    public int[] SelectionSort(int[] array) {
+
+    // check null before any other things
+
+    if (array == null || array.length <= 1) {
+    return array;
+    }
+
+    // check other conditons-empty array. etc.
+        */
+        int left;
+        int right;
+        int mid;
+        都放到for循环里面初始化
+        */
+
+        for (int left = 0; left < array.length - 1; left++) {
+            int mid = left;
+
+            for (int right = mid + 1; right < array.length; right++) {
+                if (array[right] <= array[mid]) {
+                    mid = right;
+                }
+
+
+            }
+            int help;
+            help = array[left];
+            array[left] = array[mid];
+            array[mid] = help;
+
+        }
+        
+
+
+        return array;
+    }
+
+
+}
+
+// 04202019 基本ok，注意检查condition，还有初始化尽量简化
+// 在mid和right比较的时候个人觉得标准答案不如用if (array[right] <= array [mid]) 这样相同的数值越向右替换的时候越简单
