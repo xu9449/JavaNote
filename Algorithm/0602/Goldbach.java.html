@@ -1,0 +1,80 @@
+<html>
+<head>
+<title>Goldbach.java</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #cc7832;}
+.s1 { color: #a9b7c6;}
+.s2 { color: #808080;}
+.s3 { color: #6897bb;}
+.s4 { color: #6a8759;}
+.ln { color: #606366; font-weight: normal; font-style: normal; }
+</style>
+</head>
+<body bgcolor="#2b2b2b">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+Goldbach.java</font>
+</center></td></tr></table>
+<pre><a name="l1"><span class="ln">1    </span></a><span class="s0">public class </span><span class="s1">Goldbach {</span>
+    <span class="s0">public static void </span><span class="s1">main(String[] args) {</span>
+        <span class="s2">//new goldbach().check();</span>
+        <span class="s0">new </span><span class="s1">Goldbach1().check()</span><span class="s0">; </span><span class="s2">//引用新class中的一个method</span>
+    <span class="s1">}</span>
+}
+    <span class="s0">class </span><span class="s1">Goldbach1 {</span>
+
+<span class="s2">/*    public void goldbach(int m) { 
+<a name="l2"><span class="ln">2    </span></a>        if (isEven(m)) { 
+<a name="l3"><span class="ln">3    </span></a>            System.out.print(&quot;you win!&quot;); 
+<a name="l4"><span class="ln">4    </span></a>            else { 
+<a name="l5"><span class="ln">5    </span></a>                System.out.print(&quot;you are close!&quot;); 
+<a name="l6"><span class="ln">6    </span></a>            } 
+<a name="l7"><span class="ln">7    </span></a>        } 
+<a name="l8"><span class="ln">8    </span></a>    }*/</span>
+    <span class="s0">public void </span><span class="s1">check() {</span>
+                <span class="s0">for </span><span class="s1">(</span><span class="s0">int </span><span class="s1">i = </span><span class="s3">4</span><span class="s0">; </span><span class="s1">i &lt;= </span><span class="s3">10000000</span><span class="s0">; </span><span class="s1">i+=</span><span class="s3">2</span><span class="s1">) { </span><span class="s2">// i += 2 注意两边空格</span>
+                    <span class="s0">if </span><span class="s1">(!checkEvenNumber(i)) {</span>
+                        System.out.print(<span class="s4">&quot;Congratulation, you win the Fields prize&quot;</span><span class="s1">)</span><span class="s0">;</span>
+                    break;
+                    <span class="s1">}</span>
+
+            <span class="s0">if</span><span class="s1">(i%</span><span class="s3">10000 </span><span class="s1">==</span><span class="s3">0</span><span class="s1">) {</span>
+                System.out.print((<span class="s4">&quot;Holds &lt;= &quot; </span><span class="s1">+ i))</span><span class="s0">;</span>
+            <span class="s1">}</span>
+        }
+    }
+
+    <span class="s0">public boolean </span><span class="s1">isPrime(</span><span class="s0">int </span><span class="s1">n) {</span>
+            <span class="s2">/*for (int i = 1; i * i &lt; n; i++) { 
+<a name="l9"><span class="ln">9    </span></a>                if (n / i == 0) { 
+<a name="l10"><span class="ln">10   </span></a>                    return false; 
+<a name="l11"><span class="ln">11   </span></a>                } else { 
+<a name="l12"><span class="ln">12   </span></a>                    return true; 
+<a name="l13"><span class="ln">13   </span></a>                } 
+<a name="l14"><span class="ln">14   </span></a>            } 
+<a name="l15"><span class="ln">15   </span></a> 
+<a name="l16"><span class="ln">16   </span></a>    return false; 
+<a name="l17"><span class="ln">17   </span></a>    }*/</span>
+            //整个逻辑没有问题，但是如果默认是return true，则更为简便，少一层，且i * i &lt;= n 更为简便
+            <span class="s0">for</span><span class="s1">( </span><span class="s0">int </span><span class="s1">i = </span><span class="s3">2</span><span class="s0">; </span><span class="s1">i * i &lt;= n</span><span class="s0">; </span><span class="s1">i++) {</span>
+                <span class="s0">if </span><span class="s1">(n % i == </span><span class="s3">0</span><span class="s1">) {</span>
+                    <span class="s0">return false;</span>
+                <span class="s1">}</span>
+        }
+        <span class="s0">return true;</span>
+    <span class="s1">}</span>
+
+    <span class="s0">public boolean </span><span class="s1">checkEvenNumber ( </span><span class="s0">int </span><span class="s1">n) {</span>
+        <span class="s0">for </span><span class="s1">(</span><span class="s0">int </span><span class="s1">i = </span><span class="s3">2</span><span class="s0">; </span><span class="s1">i &lt;= n/</span><span class="s3">2</span><span class="s0">; </span><span class="s1">i++) {</span>
+            <span class="s0">if </span><span class="s1">(isPrime(i) &amp;&amp; isPrime(n - i) ) {</span>
+                <span class="s0">return true;</span>
+
+            <span class="s1">}</span>
+        }
+        <span class="s0">return false;</span>
+    <span class="s1">}</span>
+}</pre>
+</body>
+</html>
