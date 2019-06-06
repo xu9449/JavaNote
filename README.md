@@ -12,7 +12,7 @@
 ---   
 ## 专题
 ### 基础知识 [Link](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86)
-### Sorting Algorithm  [Link](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/01-Sorting-AlgorithmArray)  
+### 01-Sorting Algorithm  [Link](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/01-Sorting-AlgorithmArray)  
 
 ### Binary Search 
 [Classical Binary Search](https://github.com/xu9449/Interesting-Algorithm-_-Java/blob/master/Laioffer%20Code/Binary%20Search)   
