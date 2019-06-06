@@ -1,5 +1,6 @@
 [TimeTable](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/TimeTable)  
 [学习笔记](https://github.com/xu9449/JAVA/wiki) 
+  
 1. Document your assumptions   
 2. Explain your approach and how you intend to solve the problem  
 3. Provide code comments where applicable  
@@ -11,7 +12,11 @@
 ---   
 ## 专题
 ### 基础知识 [Link](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86)
-
+### Sorting Algorithm  
+Array  
+Array 物理-1）连续 2） 随机访问  
+计算机内存分为：  
+3 中 sorting Algorith
 ### Binary Search 
 [Classical Binary Search](https://github.com/xu9449/Interesting-Algorithm-_-Java/blob/master/Laioffer%20Code/Binary%20Search)   
 [Search in Sorted Matrix I](https://github.com/xu9449/Interesting-Algorithm-_-Java/blob/master/Laioffer%20Code/Search%20in%20Sorted%20Matrix%20I)   
