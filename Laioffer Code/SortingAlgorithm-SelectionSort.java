@@ -28,3 +28,4 @@ public class SortingAlgorithm {
     }
 }
 
+// 问题： 没有check array是null 或者length < 1
