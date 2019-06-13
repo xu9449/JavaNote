@@ -1,0 +1,11 @@
+public Integer linearSearch (int[] array, int target) {
+        Integer index = null;
+        for (int i = 0; i < array.length; i ++) {
+            if (array[i] == target) {
+                index = i;
+                return index;
+            }
+        }
+        return null;
+    }
+    // 如果想返回null，只需要将返回值设为Integer格式即可
