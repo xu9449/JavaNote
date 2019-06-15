@@ -1,4 +1,8 @@
-02-复习  
+02-复习    
+    
+ MergeSort 是一个recursion  
+ 一头扎到底，深度优先  
+ 
    
 import java.util.Arrays;
 
@@ -10,27 +14,6 @@ public class SortingAlgorithm {
         System.out.println(Arrays.toString(result));
 
     }
-
-    public int[] SelectionSort(int[] array) {
-
-        int length = array.length;
-
-        for (int left = 0; left < length; left++) {
-            int M = left;
-            for (int right = left + 1; right < length; right ++) {
-                if (array[right] < array[M]) {
-                    M = right;
-                }
-            }
-            int help = array[left];
-            array[left] = array[M];
-            array[M] = help;
-        }
-        return array;
-    }
-
-
-
 
     public int[] mergeSort (int[] array) {
         /*
