@@ -1,0 +1,42 @@
+
+public class Simple {
+    public static void main (String[] args) {
+
+        //Problem 0
+        int x = 5;
+        changeIntValue(x);
+        System.out.println(x);
+
+        //Problem 1
+        Simple1  originalSimple = new Simple1(5);
+        changeSimpleValue1(originalSimple);
+        System.out.print(originalSimple.value);
+
+        //Problem 2
+        changeSimpleValue2(originalSimple);
+        System.out.println(originalSimple.value);
+
+        //Problem 3
+        originalSimple = changeSimpleValue3(originalSimple);
+        System.out.print(originalSimple.value);
+    }
+
+    private static void changeIntValue(int y) {
+        y = 10;
+    }
+
+    private static void changeSimpleValue1(Simple1 simple) {
+        Simple1 newSimple = new Simple1(10);
+        simple = newSimple;
+    }
+
+    private static void changeSimpleValue2(Simple1 simple) {
+        simple.value = 10;
+    }
+
+    private static Simple1 changeSimpleValue3(Simple1 simple) {
+        Simple1 x = new Simple1(10);
+        return x;
+    }
+
+}
