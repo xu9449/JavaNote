@@ -1,4 +1,3 @@
-[TimeTable](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/TimeTable)  
 [学习笔记](https://github.com/xu9449/JAVA/wiki) 
   
 1. Document your assumptions   
