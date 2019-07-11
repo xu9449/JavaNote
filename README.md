@@ -14,7 +14,7 @@
   
 ### 递归 [Link] (https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/%E9%80%92%E5%BD%92%E6%95%B4%E7%90%86)
 
-### Binary Search  
+### Binary Search  [Link](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Binary-Search)
 
 ### 01-Sorting Algorithm  [Link](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/01-Sorting-Algorithm)  
 
