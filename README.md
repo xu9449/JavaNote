@@ -12,7 +12,7 @@
 ## 专题
 ### 基础知识 [Link](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86)
   
-### 递归 [Link] (https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/%E9%80%92%E5%BD%92%E6%95%B4%E7%90%86)_
+### 递归 [Link] (https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/%E9%80%92%E5%BD%92%E6%95%B4%E7%90%86)
 
 ### Binary Search  
 
