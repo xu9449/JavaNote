@@ -21,61 +21,33 @@ public class AmazonsumClosest {
 
     }
 
-    int[] test(int[] nums, int d) {
-        int[] result = new int[2];
-
-        int target = d - 30;
-        if (target <= 0) return result;
-
-        // Use a dynamic array List
-        List<Pair> sorted = new ArrayList<>();
-        for (int i = 0; i < nums.length; i++) {
-            sorted.add(new Pair(i, nums[i]));
-        }
-        Collections.sort(sorted, (i, j) -> (i.val - j.val));
-
-        int closestSum = 0;
-
-        // two pointers
-        int left = 0, right = nums.length - 1;
-        while (left < right) {
-            Pair leftPair = sorted.get(left);
-            Pair rightPair = sorted.get(right);
-            int sum = leftPair.val + rightPair.val;
-            if (sum > target) {
-                right--;
+    private List<int[]> getPairs(List<int[]> a, List<int[]> b, int target) {
+        Collections.sort(a, (i,j) -> i[1] - j[1]);
+        Collections.sort(b, (i,j) -> i[1] - j[1]);
+        List<int[]> result = new ArrayList<>();
+        int max = Integer.MIN_VALUE;
+        int m = a.size();
+        int n = b.size();
+        int i =0;
+        int j =n-1;
+        while(i<m && j >= 0) {
+            int sum = a.get(i)[1] + b.get(j)[1];
+            if(sum > target) {
+                --j;
             } else {
-
-                //found duplicates
-                if (sum == closestSum) {
-                    int currentLongestMovie = nums[result[1]];
-                    if (rightPair.val > currentLongestMovie) {
-                        // found longer movie
-                        result[0] = leftPair.index;
-                        result[1] = rightPair.index;
+                if(max <= sum) {
+                    if(max < sum) {
+                        max = sum;
+                        result.clear();
                     }
-                } else if (sum > closestSum) {
-                    closestSum = sum;
-                    result[0] = leftPair.index;
-                    result[1] = rightPair.index;
+                    result.add(new int[]{a.get(i)[0], b.get(j)[0]});
+                    int index = j-1;
+                    while(index >=0 && b.get(index)[1] == b.get(index+1)[1]) {
+                        result.add(new int[]{a.get(i)[0], b.get(index--)[0]});
+                    }
                 }
-                left++;
+                ++i;
             }
-
         }
         return result;
     }
-
-    class Pair {
-        int index;
-        int val;
-        Pair(int index ,int val) {
-            this.index = index;
-            this.val = val;
-        }
-    }
-
-
-    //arrays.sort 复杂度 平均O(nlogn)
-    //space O(1)
-}
