@@ -1,30 +1,40 @@
-import java.util.Arrays;
-import java.util.Comparator;
+import java.util.*;
+
+
 
 public class reorderLogFiles {
     public String[] reorderLogFiles(String[] logs) {
-        Comparator<String> myComp = new Comparator<String>() {
-            @Override
-            public int compare(String s1, String s2) {
-                int s1si = s1.indexOf(' ');
-                int s2si = s2.indexOf(' ');
-
-                char s1fc = s1.charAt(s1si+1);
-                char s2fc = s2.charAt(s2si+1);
-
-                if (s1fc <= '9') {
-                    if (s2fc <= '9') return 0;
-                    else return 1;
-                }
-                if (s2fc <= '9') return -1;
-
-                int preCompute = s1.substring(s1si+1).compareTo(s2.substring(s2si+1));
-                if (preCompute == 0) return s1.substring(0,s1si).compareTo(s2.substring(0,s2si));
-                return preCompute;
+    if (logs == null || logs.length == 0) return logs;
+    int len = logs.length;
+        List<String> letterList = new ArrayList<>();
+        List<String> digitList = new ArrayList<>();
+        for (String log: logs) {
+            if (log.split(" ")[1].charAt(0) < 'a') {
+                digitList.add(log);
+            } else {
+                letterList.add(log);
             }
-        };
+        }
+        Collections.sort(letterList, o1, o2) -> {
+            String[] s1 = o1.split(" ");
+            String[] s2 = o2.split(" ");
+            int len1 = s1.length;
+            int len2 = s2.length;
+            for (int i = 1; i < Math.min(len1, len2); i++) {
+                if (!s1[i].equals(s2[i])) {
+                    return s1[i].compareTo(s2[i]);
+                }
+            }
+            return s1[0].compareTo(s2[0]);
+        });
 
-        Arrays.sort(logs, myComp);
+        for (int i = 0; i < len; i++) {
+            if (i < letterList.size())
+                logs[i] = letterList.get(i);
+            else logs[i] = digitList.get(i - letterList.size());
+        }
         return logs;
+
+
     }
 }
