@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f2ea01c-4997-4121-b105-8dd5fc1dfb26" name="Default Changelist" comment="" />
+    <list default="true" id="8f2ea01c-4997-4121-b105-8dd5fc1dfb26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Bipartite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,22 +25,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="5" />
+          <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3588" />
+          <entry key="java" value="5265" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3588" />
+          <entry key="JAVA" value="5265" />
         </counts>
       </usages-collector>
     </session>
@@ -83,7 +86,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/getKeysInBinaryTreeLayerByLayer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -93,6 +96,18 @@
                 <element signature="e#208#223#0" expanded="true" />
                 <element signature="e#389#399#0" expanded="true" />
                 <element signature="e#583#592#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Bipartite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -117,12 +132,13 @@
         <option value="$PROJECT_DIR$/src/DailyTemperature.java" />
         <option value="$PROJECT_DIR$/src/KthSmallestInUnsortedArray.java" />
         <option value="$PROJECT_DIR$/src/getKeysInBinaryTreeLayerByLayer.java" />
+        <option value="$PROJECT_DIR$/src/Bipartite.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="610" />
-    <option name="y" value="35" />
+    <option name="x" value="664" />
+    <option name="y" value="32" />
     <option name="width" value="1306" />
     <option name="height" value="934" />
   </component>
@@ -153,7 +169,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573847645884" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573852662847" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -195,10 +211,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="610" y="35" width="1306" height="934" extended-state="0" />
+    <frame x="664" y="32" width="1306" height="934" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25791138" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25791138" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -219,7 +235,7 @@
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
@@ -289,6 +305,16 @@
             <element signature="e#208#223#0" expanded="true" />
             <element signature="e#389#399#0" expanded="true" />
             <element signature="e#583#592#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bipartite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
