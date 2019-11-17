@@ -2,6 +2,15 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.*;
 
+public class GraphNode {
+    public int key;
+    public List<GraphNode> neighbors;
+    public GraphNode(int key) {
+        this.key = key;
+        this.neighbors = new ArrayList<GraphNode>();
+    }
+}
+
 public class Bipartite {
 
     public boolean isBipartite(List<GraphNode> graph) {
@@ -10,7 +19,7 @@ public class Bipartite {
         HashMap<GraphNode,Integer> visited = new HashMap<GraphNode, Integer>();
         //the graph can be represented by a list of nodes (if it is not
         //guaranteed to be connected). We have to do BFS from each of the nodes
-        for (graphNode node: graph) {
+        for (GraphNode node: graph) {
             if (!BFS(node, visited)) {
                 return false;
             }
