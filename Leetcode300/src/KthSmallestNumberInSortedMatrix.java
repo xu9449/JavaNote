@@ -29,11 +29,11 @@ public class KthSmallestNumberInSortedMatrix {
             // 1. it is not out of boundary.
             // 2. it has not been generated before.
             // Because for each cell it could be generatedd twice.
-            if (cur.row + 1) < rows && !visited[cur.row + 1][cur.column] {
+            if (cur.row + 1 < rows && !visited[cur.row + 1][cur.column]) {
                     minHeap.offer(new Cell(cur.row + 1, cur.column, matrix[cur.row + 1][cur.column]));
                     visited[cur.row + 1][cur.column] = true;
             }
-            if (cur.column + 1) < columns && !visited[cur.row][cur.column + 1] {
+            if (cur.column + 1 < columns && !visited[cur.row][cur.column + 1]) {
                 minHeap.offer(new Cell(cur.row, cur.column + 1, matrix[cur.row ][cur.column + 1]));
                 visited[cur.row][cur.column + 1] = true;
             }
