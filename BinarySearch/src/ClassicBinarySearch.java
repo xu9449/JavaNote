@@ -1,4 +1,5 @@
 public class ClassicBinarySearch {
+    //时间复杂度：最优O（1）最差 O（log（n））
     public int binarySearch (int[] array, int target) {
         if (array.length == 0 || array == null) {
             return -1;
