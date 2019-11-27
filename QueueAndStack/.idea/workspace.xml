@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7c8bde3-bf1b-4561-8abe-f76857e15314" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueByTwoStacks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HeapAndGraphSearchIBFS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HeapAndGraphSearchIBFS/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f7c8bde3-bf1b-4561-8abe-f76857e15314" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,8 +73,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="672" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="671" />
     <option name="y" value="116" />
     <option name="width" value="1306" />
     <option name="height" value="934" />
@@ -105,7 +101,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574552383894" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574881810821" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,7 +129,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="672" y="116" width="1306" height="934" extended-state="0" />
+    <frame x="671" y="116" width="1306" height="934" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
