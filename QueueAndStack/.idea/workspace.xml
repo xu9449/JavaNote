@@ -13,6 +13,7 @@
     <session id="-730192680">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -45,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/src/QueueByTwoStacks.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+              <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
               <folding>
                 <element signature="e#125#134#0" expanded="true" />
                 <element signature="e#183#192#0" expanded="true" />
@@ -73,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="671" />
     <option name="y" value="116" />
     <option name="width" value="1306" />
@@ -101,7 +102,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574881810821" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574883001082" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -129,8 +130,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="671" y="116" width="1306" height="934" extended-state="1" />
-    <editor active="true" />
+    <frame x="671" y="116" width="1306" height="934" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -167,7 +167,7 @@
     <entry file="file://$PROJECT_DIR$/src/QueueByTwoStacks.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
           <folding>
             <element signature="e#125#134#0" expanded="true" />
             <element signature="e#183#192#0" expanded="true" />
