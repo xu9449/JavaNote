@@ -50,7 +50,7 @@ public class RplaceSpace {
     // Driver Code
     public static void main(String[] args)
     {
-        char[] str = "Mr John  Smith ".toCharArray();
+        char[] str = "Mr John  Smith  ".toCharArray();
 
         // Prints the replaced string
         str = replaceSpaces(str);
