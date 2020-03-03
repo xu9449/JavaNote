@@ -1,0 +1,72 @@
+03/02 
+
+Practice 05 
+ArrayList 
+Arraylist 的size不是array的长度，是含有多少个元素； size 是eager (O(1)的complexity）， size 和 capacity的区别
+Arraylist 不用关心他的长度，它会自动延长，并且可以gc掉旧的arraylist
+每次增大1.5倍
+
+A hashtable implementation of map, demonstration purpose, generic type is provided
+
+supported operations:
+put (String key, Integer value)
+get (String key)
+
+public static class Node{
+	final String key;
+	Integer value;
+	Node next;
+Node(K key, 
+
+public String getKey() {
+	return key;
+}
+
+public Integer getValue() {
+	return value;
+}
+
+public void setValue(Integer value) {
+	this.value = value;
+}
+}
+
+private int bucketSize = 10;
+private Node[] buckets = new Node[buketSize];
+// fill in the buckets instead of keep null value
+for ( 
+
+// method Put
+private Node put(String key, Integer value) {
+	Hashcode HC = key.hashCode();
+	int Index = HC % bucketSize;
+	Node cur = buckets[index];
+	while ( cur!= null) {
+		if (cur.equals(key)) {
+			cur.setValue(value);
+			return cur;
+		}
+}
+
+// Class constractor, API
+// Data -> fields
+// Constractor: capacity, load factor(threshold), no parameter
+// Implementation
+
+Cart: clarification, assumpution, re
+
+public MyHashMap(int cap) {
+	this.buckets = new Node[cap];
+}
+
+public MyHashMap() {
+	this(DEFAULT_CAPACITY);
+}
+public Integer put(String key, Integer value) {
+	return null
+
+}
+
+public Integer get(String key) {
+	return null;
+
