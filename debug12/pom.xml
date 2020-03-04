@@ -16,6 +16,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
+    <flyway.version>6.2.4</flyway.version>
   </properties>
 
   <dependencies>
@@ -26,13 +27,19 @@
       <scope>test</scope>
     </dependency>
 
-    <dependency>
-      <groupId>com.google.guava</groupId>
-      <artifactId>guava</artifactId>
-      <version>28.2-jre</version>
-      <!-- or, for Android: -->
-      <!--<version>28.2-android</version>-->
-    </dependency>
+    <!--<dependency>-->
+      <!--<groupId>com.google.guava</groupId>-->
+      <!--<artifactId>guava</artifactId>-->
+      <!--<version>28.2-jre</version>-->
+      <!--&lt;!&ndash; or, for Android: &ndash;&gt;-->
+      <!--&lt;!&ndash;<version>28.2-android</version>&ndash;&gt;-->
+    <!--</dependency>-->
+
+      <dependency>
+          <groupId>org.postgresql</groupId>
+          <artifactId>postgresql</artifactId>
+          <version>42.2.5</version>
+      </dependency>
 
   </dependencies>
 
@@ -80,6 +87,23 @@
           <artifactId>maven-project-info-reports-plugin</artifactId>
           <version>3.0.0</version>
         </plugin>
+
+        <!--flyway database migration -->
+        <plugin>
+          <groupId>org.flywaydb</groupId>
+          <artifactId>flyway-maven-plugin</artifactId>
+          <version>6.2.4</version>
+          <configuration>
+            <driver>org.postgresql.Driver</driver>
+            <url>jdbc:postgresql://localhost:5431/pet</url>
+            <user>admin</user>
+            <password>password</password>
+            <schemas>
+              <schema>public</schema>
+            </schemas>
+          </configuration>
+        </plugin>
+
       </plugins>
     </pluginManagement>
   </build>
