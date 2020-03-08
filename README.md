@@ -13,5 +13,6 @@ https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/
 - Tree
   - [How to determine whether a binary tree is a balanced binary tree?](https://docs.google.com/document/d/1ozw2M5nWmzbzT_5z4r-UGOqgHPYayxPwNEpBMEtvTVU/edit)
   - [How to judge whether a binary tree is symmetric?](https://docs.google.com/document/d/1SLRqh32VP2meAVtMVYGNyCq4b-ec5_VQNwaLoeFxewY/edit)
-  - [经典例题：How to determine a binary tree is a BST]()
+  - [经典例题：How to determine a binary tree is a BST](https://docs.google.com/document/d/1plLbMvAUMF4KDL5xtJEDy9rU1_IEj9zfH4C0iaJ5YIQ/edit)
+  - [经典例题：Print BST keys in the given range]()
  
