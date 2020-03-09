@@ -15,4 +15,4 @@ https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/
   - [How to judge whether a binary tree is symmetric?](https://docs.google.com/document/d/1SLRqh32VP2meAVtMVYGNyCq4b-ec5_VQNwaLoeFxewY/edit)
   - [经典例题：How to determine a binary tree is a BST](https://docs.google.com/document/d/1plLbMvAUMF4KDL5xtJEDy9rU1_IEj9zfH4C0iaJ5YIQ/edit)
   - [经典例题：Print BST keys in the given range](https://docs.google.com/document/d/1uRdw1MN8_teoRdp79-jffTh_ajsRdD-Y7r4yUe2Pyb0/edit)
- 
+  - [Search in BST] (https://docs.google.com/document/d/1Qid4FwFPXIfOfOFmWwC-AlmU4QdlD9hqmG-oToRlObA/edit)
