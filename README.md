@@ -17,7 +17,7 @@ https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/
   - [经典例题：Print BST keys in the given range](https://docs.google.com/document/d/1uRdw1MN8_teoRdp79-jffTh_ajsRdD-Y7r4yUe2Pyb0/edit)
   - [Search in BST](https://docs.google.com/document/d/1Qid4FwFPXIfOfOFmWwC-AlmU4QdlD9hqmG-oToRlObA/edit)
   - [Insert in BST](https://docs.google.com/document/d/1W45sfUmH4zW7pqR75qSaI9gCeZhF1z96T9z30m0FO44/edit)
-  - [Delete in BST]()
+  - [Delete in BST](https://docs.google.com/document/d/1cBumOneFX0zZ7S_0JD1TRsggnbRfH8HK8O32Kovh-po/edit)
   
 - Recursion
   - 和数学运算结合
