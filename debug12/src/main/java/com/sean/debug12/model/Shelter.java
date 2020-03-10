@@ -1,7 +1,7 @@
 package com.sean.debug12.model;
 
 public class Shelter {
-    private Integer id;
+    private Long id;
     private String name;
     private String tel;
     private String email;
@@ -9,7 +9,7 @@ public class Shelter {
     private String description;
     private String principle;
 
-    public void setId(Integer id) {
+    public void setId(Long id) {
         this.id = id;
     }
 
@@ -53,7 +53,7 @@ public class Shelter {
         return name;
     }
 
-    public Integer getId() {
+    public Long getId() {
         return id;
     }
 

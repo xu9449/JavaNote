@@ -1,7 +1,7 @@
 package com.sean.debug12.model;
 
 public class Adopter {
-    private Integer id;
+    private Long id;
     private String name;
     private String tel;
     private String emial;
@@ -14,7 +14,7 @@ public class Adopter {
         this.name = name;
     }
 
-    public void setId(Integer id) {
+    public void setId(Long id) {
         this.id = id;
     }
 
@@ -40,7 +40,7 @@ public class Adopter {
     // get
 
 
-    public Integer getId() {
+    public Long getId() {
         return id;
     }
 
