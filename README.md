@@ -19,6 +19,6 @@ https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/
   - [Insert in BST](https://docs.google.com/document/d/1W45sfUmH4zW7pqR75qSaI9gCeZhF1z96T9z30m0FO44/edit)
   - [Delete in BST]()
   
-  - Recursion
-   - 和数学运算结合
-    -- [a^b](https://docs.google.com/document/d/1Mckjeb98OxXtIKykOvhwZB-shfvmLyL5IWKxy-m4ZYQ/edit)
+- Recursion
+  - 和数学运算结合
+    - [a^b](https://docs.google.com/document/d/1Mckjeb98OxXtIKykOvhwZB-shfvmLyL5IWKxy-m4ZYQ/edit)
