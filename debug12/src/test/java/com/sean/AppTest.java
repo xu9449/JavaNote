@@ -1,4 +1,4 @@
-package com.Kexin;
+package com.sean;
 
 import static org.junit.Assert.assertTrue;
 

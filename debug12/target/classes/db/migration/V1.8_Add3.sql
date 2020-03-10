@@ -8,4 +8,4 @@ where name = 'Shadow';
 
 Alter table pet
     add constraint adopter_pk FOREIGN KEY (Adopter)
-        references adopter (id);
+        references adopter (id);ƒ
