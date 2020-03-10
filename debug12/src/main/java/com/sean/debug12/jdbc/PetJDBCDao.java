@@ -1,10 +1,13 @@
 package com.sean.debug12.jdbc;
 
 import com.sean.debug12.model.Pet;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
+
 
 public class PetJDBCDao {
 
@@ -12,9 +15,16 @@ public class PetJDBCDao {
     static final String USER = "admin";
     static final String PASS = "password";
 
+    private static Logger logger = LoggerFactory.getLogger(PetJDBCDao.class);
+
+
     public static void main (String[] args) {
         PetJDBCDao petJDBCDdao = new PetJDBCDao();
-        System.out.println(petJDBCDdao.getPet().size());
+        System.out.println(petJDBCDdao.getPet());
+        logger.debug("Debug");
+        logger.info("infor");
+        logger.warn("warn");
+
     }
 
     public List<Pet> getPet() {
