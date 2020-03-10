@@ -5,50 +5,39 @@ import java.util.Date;
 public class Pet {
     private Long id;
     private String name;
+    private String age;
     private String breed;
-    private int string;
     private String shelter;
     private String description;
     private Date adoptdate;
 
-    public void setId(Long id) {
-        this.id = id;
-    }
-
-    public Long getId() {
-        return id;
-    }
-
-    public void setBreed(String breed) {
-        this.breed = breed;
-    }
-
-    public String getBreed() {
-        return breed;
-    }
-
-
-    public Date getAdoptdate() {
-        return adoptdate;
-    }
-
+    // Set
+    public void setId(Long id) { this.id = id; }
+    public void setBreed(String breed) {this.breed = breed;}
     public void setName(String name) {
         this.name = name;
     }
+    public void setDescription(String description) {this.description = description; }
 
-    public String getName() {
-        return name;
+    public void setAge(String age) { this.age = age;}
+
+    public void setAdoptdate(Date adoptdate) {
+        this.adoptdate = adoptdate;
     }
 
-
-
-    public String getShelter() {
-        return shelter;
+    public void setShelter(String shelter) {
+        this.shelter = shelter;
     }
 
-    public void setDescription(String description) {
-        this.description = description;
+    // Get
+    public Long getId() { return id; }
+    public String getBreed() { return breed; }
+    public Date getAdoptdate() { return adoptdate; }
+    public String getName() { return name; }
+    public String getShelter() { return shelter; }
+    public String getAge() { return age; }
+
+    public String getDescription() {
+        return description;
     }
-
-
 }
