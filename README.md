@@ -21,7 +21,7 @@ https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/
   - [Delete in BST](https://docs.google.com/document/d/1cBumOneFX0zZ7S_0JD1TRsggnbRfH8HK8O32Kovh-po/edit)
   - [Binary Tree Traversal - Iterative](https://docs.google.com/document/d/1ieyB4qrjuyAfPUdxgcAqZ3p0WU6v4ToQZfH_tu_3ln4/edit)
   
-- Recursion
+- [Recursion](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/%E9%80%92%E5%BD%92%E6%95%B4%E7%90%86)
   - 和数学运算结合
     - [a^b](https://docs.google.com/document/d/1Mckjeb98OxXtIKykOvhwZB-shfvmLyL5IWKxy-m4ZYQ/edit)
     
