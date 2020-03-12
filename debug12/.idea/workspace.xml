@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3741621c-6c0d-4b72-8d80-44ea59c8b80a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Sean/debug12/jdbc/AdopterJDBCDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Sean/debug12/jdbc/ShelterJDBCDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sean/debug12/model/Shelter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sean/debug12/model/Shelter.java" afterDir="false" />
-    </list>
+    <list default="true" id="3741621c-6c0d-4b72-8d80-44ea59c8b80a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -284,9 +279,8 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="180" />
-    <option name="y" value="86" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="28" />
     <option name="width" value="1680" />
     <option name="height" value="956" />
   </component>
@@ -423,7 +417,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/xukexin/Documents/GitHub/Interesting-Algorithm-_-Java/debug12/src/main/java/com/sean/debug12/model/Pet.java&#10;org.postgresql&#9;FILE&#9;jar:///Users/xukexin/.m2/repository/org/postgresql/postgresql/42.2.5/postgresql-42.2.5.jar!/META-INF/maven/org.postgresql&#10;postgresql&#9;FILE&#9;jar:///Users/xukexin/.m2/repository/org/postgresql/postgresql/42.2.5/postgresql-42.2.5.jar!/org/postgresql" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583867548190" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583873456514" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -484,7 +478,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="180" y="86" width="1680" height="956" extended-state="1" />
+    <frame x="0" y="28" width="1680" height="956" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26007327" />
