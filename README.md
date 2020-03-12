@@ -9,7 +9,7 @@ https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/
 - Linked List  
   - [Reorder linked List](https://docs.google.com/document/d/1-d74EvJrNI2koE1YzJ74i7iwRu9K-TMKn7ERB0sWOC8/edit);
   - [Stack Implementation](https://docs.google.com/document/d/1gJ6QgpaMfBF5-XGDd-_kw-UiOVtpv3tWGZCBOLhFFDo/edit);
-- Binary Search
+- [Binary Search](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Binary-Search)
   -- [Classical Binary Search]
 - Tree
   - [How to determine whether a binary tree is a balanced binary tree?](https://docs.google.com/document/d/1ozw2M5nWmzbzT_5z4r-UGOqgHPYayxPwNEpBMEtvTVU/edit)
@@ -39,8 +39,6 @@ https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/
 ---   
 ## 专题
 ### 基础知识 [Link](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86)
-  
-### 递归 [Link] (https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/%E9%80%92%E5%BD%92%E6%95%B4%E7%90%86)
 
 ### Binary Search  [Link](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Binary-Search)
 
