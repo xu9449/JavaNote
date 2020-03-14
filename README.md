@@ -7,7 +7,7 @@ https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/
 <details open>
 <summary>March 14th</summary>
 <br>
-Well, you asked for it!
+- All Unique Characters
 </details>
 
 - Sorting   
