@@ -115,3 +115,8 @@ Question 3 How to sort numbers with tree （two) stacks   ?
 Question 4 How to use multiple Stacks to implement a dequeue?  
 follow up : use 3 stacks to improve the time complexity of pop() operation.  
 
+<details open>
+<summary>Want to ruin the surprise?</summary>
+<br>
+Well, you asked for it!
+</details>
