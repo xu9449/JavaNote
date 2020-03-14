@@ -118,5 +118,5 @@ follow up : use 3 stacks to improve the time complexity of pop() operation.
 <details open>
 <summary>Want to ruin the surprise?</summary>
 <br>
-Well, you asked for it!
+[Well, you asked for it!](www.google.com)
 </details>
