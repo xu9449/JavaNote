@@ -8,7 +8,17 @@ https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/
  [OPEN NEW GOOGLE DOC](https://docs.google.com/document/d/1olX5SOQEppOQQZVQOVOjeZLcmJJ1paqcm7w39rSYLs4/edit) 
  
 
+ [学习笔记](https://github.com/xu9449/JAVA/wiki) 
   
+1. Document your assumptions   
+2. Explain your approach and how you intend to solve the problem  
+3. Provide code comments where applicable  
+4. Explain the big-O run time complexity of your solution. Justify your answer  
+5. Identify any additional data structures you used and justfy why you use them  
+6. Only provide your best anser to each part of the question
+
+
+### 基础知识 [Link](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86)
 
 # Algorithm Questions  
 ---   
@@ -28,24 +38,10 @@ https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/
   
     
  ---  
-- ## Queue & Stack 
+- ## [Queue & Stack](https://github.com/xu9449/Interesting-Algorithm-_-Java/tree/master/MyNote) 
   - Given an array stored in Stack1, how to sort the numbers by using additional two stacks  
     [Using one temp stack](https://www.geeksforgeeks.org/sort-stack-using-temporary-stack/)      
      
-Question 1 How could we implement a queue by using two stacks?  
-Worst caseTime = O ( 2n + 1) = O (n)
-Amortized time complexity 
-  
-Question 2: How to implement tht min() function when using stack with time cimplexity O(1):
-Solution 1 : we keep the contents from stack1 and stack2 in synchronization    
-  
-Follow up question : 
-Assume there are a lot of duplicate elements in the input, how to optimize the space usage of stack2 ?  
-  
-Question 3 How to sort numbers with tree （two) stacks   ?
-
-Question 4 How to use multiple Stacks to implement a dequeue?  
-follow up : use 3 stacks to improve the time complexity of pop() operation.    
 
   ---  
   
@@ -81,22 +77,13 @@ follow up : use 3 stacks to improve the time complexity of pop() operation.
 - ## graph
   - [BFS1](https://docs.google.com/document/d/1OVKJcYk6oKAlesVwybIpPTRBrCUhUN9Hl0Cwfr_okwo/edit). 
   ---  
+  
 - ## Dynamic Programming  
   - [Longest Ascending Subarray](). 
   ---  
   
     
-[学习笔记](https://github.com/xu9449/JAVA/wiki) 
-  
-1. Document your assumptions   
-2. Explain your approach and how you intend to solve the problem  
-3. Provide code comments where applicable  
-4. Explain the big-O run time complexity of your solution. Justify your answer  
-5. Identify any additional data structures you used and justfy why you use them  
-6. Only provide your best anser to each part of the question
 
-
-### 基础知识 [Link](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86)
 
 
   
