@@ -23,19 +23,9 @@ https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/
     - [Last Ocurrance](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Last-Occur). 
     - [Variant 1.1 how to find an element in the array that is clsest to the target number? ](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/variant-1.1.-how-to-find-an-element-in-the-array-that-is-closest-to-the-target-number%3F)    
     - [Variant 1.2 return the index of the index of the first occurrence of an element](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Variant-1.2-return-the-index-of-the-first-occurrence-of-an-element)  
+    - [Variant 1.4 return how to find closest k elements in the array that is closest to a target number?](https://github.com/xu9449/Interesting-Algorithm-_-Java/tree/master/MyNote)
+   
   
-Variant 1.4 return how to find closest k elements in the array that is closest to a target number?  
-step1: binary search  
-step2: 谁小移谁  
-Time = O(log (n) + k)  
-Solution 2 : optimization O (log n + log k)  
-Binarey Search Variant 2.0 :孙老师面试题     
-  
-  关于 binary search中 left <= right | < right | < right - 1 的探讨    
-最后一位如果向右找 不写right = mid + 1 容易达不到    
-classic binary tree 用的是 <= right   
-如果是 是 +1 的情况，一定要写成<= ， 否则达不到最后一个数    
-所以我们所说的 < right -1 ;其实是留两个数，然后通过最后的减法来算出来哪个比较靠近。
     
  ---  
 - ## Queue & Stack 
