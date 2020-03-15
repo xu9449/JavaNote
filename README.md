@@ -5,10 +5,10 @@ My Note.
 https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/edit#
 
 <details open>
-<summary>March 14th</summary>
+<summary>March 15th</summary>
 <br>  
- - All Unique Characters       
- - Parse a string representation of positive integer 
+ - K smallest array in unsorted array
+ 
 </details>
 
 - Sorting   
