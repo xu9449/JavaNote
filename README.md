@@ -13,11 +13,16 @@ https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/
 
 - Sorting   
   - [MergeSort](https://docs.google.com/document/d/13wgclHC2Ho2X-bXeOU5fnXw6EJYcMH_fiZyqJo1Fw9g/edit)   
+  ---  
+  
 - Linked List  
   - [Reorder linked List](https://docs.google.com/document/d/1-d74EvJrNI2koE1YzJ74i7iwRu9K-TMKn7ERB0sWOC8/edit);
   - [Stack Implementation](https://docs.google.com/document/d/1gJ6QgpaMfBF5-XGDd-_kw-UiOVtpv3tWGZCBOLhFFDo/edit);
 - [Binary Search](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Binary-Search)
   -- [Classical Binary Search]
+    
+  ---  
+  
 - Tree
   - [How to determine whether a binary tree is a balanced binary tree?](https://docs.google.com/document/d/1ozw2M5nWmzbzT_5z4r-UGOqgHPYayxPwNEpBMEtvTVU/edit)
   - [How to judge whether a binary tree is symmetric?](https://docs.google.com/document/d/1SLRqh32VP2meAVtMVYGNyCq4b-ec5_VQNwaLoeFxewY/edit)
@@ -27,10 +32,14 @@ https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/
   - [Insert in BST](https://docs.google.com/document/d/1W45sfUmH4zW7pqR75qSaI9gCeZhF1z96T9z30m0FO44/edit)
   - [Delete in BST](https://docs.google.com/document/d/1cBumOneFX0zZ7S_0JD1TRsggnbRfH8HK8O32Kovh-po/edit)
   - [Binary Tree Traversal - Iterative](https://docs.google.com/document/d/1ieyB4qrjuyAfPUdxgcAqZ3p0WU6v4ToQZfH_tu_3ln4/edit)
+  ---  
+  
   
 - [Recursion](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/%E9%80%92%E5%BD%92%E6%95%B4%E7%90%86)
   - 和数学运算结合
     - [a^b](https://docs.google.com/document/d/1Mckjeb98OxXtIKykOvhwZB-shfvmLyL5IWKxy-m4ZYQ/edit)
+    ---  
+    
 - [graph]
   - [BFS1](https://docs.google.com/document/d/1OVKJcYk6oKAlesVwybIpPTRBrCUhUN9Hl0Cwfr_okwo/edit)
     
