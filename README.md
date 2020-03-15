@@ -30,17 +30,19 @@ step2: 谁小移谁
 Time = O(log (n) + k)  
 Solution 2 : optimization O (log n + log k)  
 Binarey Search Variant 2.0 :孙老师面试题     
-### 关于 binary search中 left <= right | < right | < right - 1 的探讨  
+  
+  关于 binary search中 left <= right | < right | < right - 1 的探讨    
 最后一位如果向右找 不写right = mid + 1 容易达不到    
 classic binary tree 用的是 <= right   
-如果是 是 +1 的情况，一定要写成<= ， 否则达不到最后一个数  
+如果是 是 +1 的情况，一定要写成<= ， 否则达不到最后一个数    
 所以我们所说的 < right -1 ;其实是留两个数，然后通过最后的减法来算出来哪个比较靠近。
-  ---  
-- Queue & Stack 
+    
+ ---  
+- ## Queue & Stack 
   - Given an array stored in Stack1, how to sort the numbers by using additional two stacks  
     [Using one temp stack](https://www.geeksforgeeks.org/sort-stack-using-temporary-stack/)      
     
-## Queue & Stack   
+ Queue & Stack   
 
 Question 1 How could we implement a queue by using two stacks?  
 Worst caseTime = O ( 2n + 1) = O (n)
