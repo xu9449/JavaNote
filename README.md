@@ -64,7 +64,7 @@ https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/
 ## 专题
 ### 基础知识 [Link](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86)
 
-### Binary Search  [Link](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Binary-Search)
+
 
 ### 01-Sorting Algorithm  [Link](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/01-Sorting-Algorithm)  
 
@@ -83,11 +83,6 @@ Given an array stored in Stack1, how to sort the numbers by using additional two
 [Using one temp stack](https://www.geeksforgeeks.org/sort-stack-using-temporary-stack/)  
   
 
-
-## Recursion I & Binary Search  
-### 题目
-
-  
 
 int 是 primitive type， 不可能是null。  
 考虑括号里是小于还是小于等于的时候，考虑只有一个元素的时候。检查base case  
