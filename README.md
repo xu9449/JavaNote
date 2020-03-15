@@ -1,4 +1,4 @@
-My Algorithm Record  
+My Algorithm Record                                                                                              [OPEN GOOGLE DOC](https://docs.google.com/document/d/1olX5SOQEppOQQZVQOVOjeZLcmJJ1paqcm7w39rSYLs4/edit) 
 https://docs.google.com/spreadsheets/d/1JmDIc62MCG_dvuU_Axh32zVEWXlFMLeM2dkPaVgSAsw/edit?usp=sharing
  
 My Note.   
