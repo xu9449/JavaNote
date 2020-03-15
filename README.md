@@ -77,10 +77,6 @@ Given an array stored in Stack1, how to sort the numbers by using additional two
   
 
 
-## Practice Class 01     
-final 修饰的是reference reference不能指向其他东西，只能修改指向的内容。  
-[Array vs object](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Array-vs-object)
-
 ## Recursion I & Binary Search  
 ### 题目
 [Fibonachi sequence](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Fibonacci-sequence)  
