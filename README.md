@@ -14,7 +14,7 @@ https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/
 ---   
 
 
-- [Sorting](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/01-Sorting-Algorithm)   
+- ## [Sorting](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/01-Sorting-Algorithm)   
   - [MergeSort](https://docs.google.com/document/d/13wgclHC2Ho2X-bXeOU5fnXw6EJYcMH_fiZyqJo1Fw9g/edit)
   - Given a sorted array from 0, 1, 2, 3...to n, and there is only one missing number in it, how to find it?   
     [经典例题](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/%E7%BB%8F%E5%85%B8%E4%BE%8B%E9%A2%981)    
@@ -41,9 +41,7 @@ classic binary tree 用的是 <= right
 - ## Queue & Stack 
   - Given an array stored in Stack1, how to sort the numbers by using additional two stacks  
     [Using one temp stack](https://www.geeksforgeeks.org/sort-stack-using-temporary-stack/)      
-    
- Queue & Stack   
-
+     
 Question 1 How could we implement a queue by using two stacks?  
 Worst caseTime = O ( 2n + 1) = O (n)
 Amortized time complexity 
@@ -61,17 +59,17 @@ follow up : use 3 stacks to improve the time complexity of pop() operation.
 
   ---  
   
-- Linked List  
+- ## Linked List  
   - [Reorder linked List](https://docs.google.com/document/d/1-d74EvJrNI2koE1YzJ74i7iwRu9K-TMKn7ERB0sWOC8/edit);
   - [Stack Implementation](https://docs.google.com/document/d/1gJ6QgpaMfBF5-XGDd-_kw-UiOVtpv3tWGZCBOLhFFDo/edit);
   ---  
   
-- [Binary Search](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Binary-Search)  
+- ## [Binary Search](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Binary-Search)  
   - [Classic Binargy Search](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Classic-Binary-Search)  
     
   ---  
   
-- Tree
+- ## Tree
   - [How to determine whether a binary tree is a balanced binary tree?](https://docs.google.com/document/d/1ozw2M5nWmzbzT_5z4r-UGOqgHPYayxPwNEpBMEtvTVU/edit)
   - [How to judge whether a binary tree is symmetric?](https://docs.google.com/document/d/1SLRqh32VP2meAVtMVYGNyCq4b-ec5_VQNwaLoeFxewY/edit)
   - [经典例题：How to determine a binary tree is a BST](https://docs.google.com/document/d/1plLbMvAUMF4KDL5xtJEDy9rU1_IEj9zfH4C0iaJ5YIQ/edit)
@@ -83,17 +81,17 @@ follow up : use 3 stacks to improve the time complexity of pop() operation.
   ---  
   
   
-- [Recursion](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/%E9%80%92%E5%BD%92%E6%95%B4%E7%90%86)
+- ## [Recursion](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/%E9%80%92%E5%BD%92%E6%95%B4%E7%90%86)
   - 和数学运算结合
     - [Fibonachi sequence](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Fibonacci-sequence)  
     - [a^b](https://docs.google.com/document/d/1Mckjeb98OxXtIKykOvhwZB-shfvmLyL5IWKxy-m4ZYQ/edit). 
     - Example question: [how to calculate a^b](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/how-to-calculate-a%5Eb)
   ---  
     
-- graph
+- ## graph
   - [BFS1](https://docs.google.com/document/d/1OVKJcYk6oKAlesVwybIpPTRBrCUhUN9Hl0Cwfr_okwo/edit). 
   ---  
-- Dynamic Programming  
+- ## Dynamic Programming  
   - [Longest Ascending Subarray](). 
   ---  
   
