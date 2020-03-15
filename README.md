@@ -19,7 +19,6 @@ https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/
   ---  
   
 - [Binary Search](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Binary-Search)
-  -- [Classical Binary Search]
   -- [Classic Binargy Search](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Classic-Binary-Search)  
     
   ---  
