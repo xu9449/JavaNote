@@ -40,7 +40,7 @@ https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/
     - [a^b](https://docs.google.com/document/d/1Mckjeb98OxXtIKykOvhwZB-shfvmLyL5IWKxy-m4ZYQ/edit)
     ---  
     
-- [graph]
+- graph
   - [BFS1](https://docs.google.com/document/d/1OVKJcYk6oKAlesVwybIpPTRBrCUhUN9Hl0Cwfr_okwo/edit)
     
 [学习笔记](https://github.com/xu9449/JAVA/wiki) 
