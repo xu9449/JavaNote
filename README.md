@@ -20,6 +20,7 @@ https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/
   
 - [Binary Search](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Binary-Search)
   -- [Classical Binary Search]
+  -- [Classic Binargy Search](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Classic-Binary-Search)  
     
   ---  
   
@@ -64,7 +65,7 @@ https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/
 ### 01-Sorting Algorithm  [Link](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/01-Sorting-Algorithm)  
 
 ### Binary Search 
-[Classical Binary Search](https://github.com/xu9449/Interesting-Algorithm-_-Java/blob/master/Laioffer%20Code/Binary%20Search)   
+
 [Search in Sorted Matrix I](https://github.com/xu9449/Interesting-Algorithm-_-Java/blob/master/Laioffer%20Code/Search%20in%20Sorted%20Matrix%20I)   
 [Closest In Sorted Array](https://github.com/xu9449/Interesting-Algorithm-_-Java/blob/master/Laioffer%20Code/Closest%20In%20Sorted%20Array)   
 [First Occurence](https://github.com/xu9449/Interesting-Algorithm-_-Java/blob/master/Laioffer%20Code/First%20Occurrence)
@@ -87,7 +88,7 @@ Given an array stored in Stack1, how to sort the numbers by using additional two
 int 是 primitive type， 不可能是null。  
 考虑括号里是小于还是小于等于的时候，考虑只有一个元素的时候。检查base case  
   
-[Classic Binargy Search](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Classic-Binary-Search)  
+
   
 [Search in Sorted Matrix I](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Search-In-Sorted-Matrix-I) . 
   
