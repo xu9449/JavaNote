@@ -18,8 +18,8 @@ https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/
   - [Stack Implementation](https://docs.google.com/document/d/1gJ6QgpaMfBF5-XGDd-_kw-UiOVtpv3tWGZCBOLhFFDo/edit);
   ---  
   
-- [Binary Search](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Binary-Search)
-  -- [Classic Binargy Search](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Classic-Binary-Search)  
+- [Binary Search](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Binary-Search)  
+  - [Classic Binargy Search](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Classic-Binary-Search)  
     
   ---  
   
