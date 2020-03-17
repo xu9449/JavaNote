@@ -2,11 +2,9 @@ My Algorithm Record
 https://docs.google.com/spreadsheets/d/1JmDIc62MCG_dvuU_Axh32zVEWXlFMLeM2dkPaVgSAsw/edit?usp=sharing
  
 My Note.   
-https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/edit#
+https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/edit#  
   
-    
- [OPEN NEW GOOGLE DOC](https://docs.google.com/document/d/1olX5SOQEppOQQZVQOVOjeZLcmJJ1paqcm7w39rSYLs4/edit) 
- 
+March-16   休息一天，补之前的课程以及学习新课程  
 
  [学习笔记](https://github.com/xu9449/JAVA/wiki) 
   
