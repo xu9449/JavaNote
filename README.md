@@ -75,7 +75,7 @@ March-16   休息一天，补之前的课程以及学习新课程
     - Example question: [how to calculate a^b](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/how-to-calculate-a%5Eb)
   ---  
     
-- ## graph
+- ## Heap and Graph Search I: BFS
   - [BFS1](https://docs.google.com/document/d/1OVKJcYk6oKAlesVwybIpPTRBrCUhUN9Hl0Cwfr_okwo/edit). 
   ---  
   
