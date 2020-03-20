@@ -30,6 +30,7 @@ March-16   休息一天，补之前的课程以及学习新课程
   - [MergeSort](https://docs.google.com/document/d/13wgclHC2Ho2X-bXeOU5fnXw6EJYcMH_fiZyqJo1Fw9g/edit)  
   - [QuickSort](https://docs.google.com/document/d/1H4vWfbIbMQmN_BG50kaTLM1SFQDwxxLp3iEbU52aoT8/edit). 
   
+  
   - Given a sorted array from 0, 1, 2, 3...to n, and there is only one missing number in it, how to find it?   
     [经典例题](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/%E7%BB%8F%E5%85%B8%E4%BE%8B%E9%A2%981)    
     [Search in Sorted Matrix I](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Search-In-Sorted-Matrix-I)   
@@ -84,6 +85,8 @@ March-16   休息一天，补之前的课程以及学习新课程
   - [BFS1](https://docs.google.com/document/d/1OVKJcYk6oKAlesVwybIpPTRBrCUhUN9Hl0Cwfr_okwo/edit)
   - K Smallest In Unsorted Array
   - Get Keys in Binary Tree Layer By Layer
+  - [heap implemenation](https://docs.google.com/document/d/1jHmSlKP8OJKqfK2puFaxbSqxZg3z1Q3CfXQ-QVWnk-0/edit). 
+  
   ---  
   
 - ## Dynamic Programming  
