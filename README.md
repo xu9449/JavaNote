@@ -6,7 +6,7 @@ https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/
   
 ## 打卡    
 March-21   补项目 关于SQL MAVEN Postgre 晚上OOD Design  
-March-20   Merge LinkedList.   Three Stack 实现queue
+March-20   Merge LinkedList.   Three Stack 实现queue  
 March-19   QuickSort, Heap Implementation. 
 March-18   BFS  - 2   
 March-17.  补project一天    
