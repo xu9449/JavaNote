@@ -5,8 +5,8 @@ My Note.
 https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/edit#    
   
 ## 打卡    
-March-21   补项目 关于SQL MAVEN Postgre 晚上OOD Design
-March-20   Merge LinkedList. 
+March-21   补项目 关于SQL MAVEN Postgre 晚上OOD Design  
+March-20   Merge LinkedList.   
 March-19   QuickSort, Heap Implementation. 
 March-18   BFS  - 2   
 March-17.  补project一天    
