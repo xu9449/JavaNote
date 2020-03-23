@@ -5,6 +5,11 @@ My Note.
 https://docs.google.com/document/d/1hgi-Jf-h2ffJlSV5dZ9iQEVlhkmM-E3a58RUy_S1LzI/edit#    
   
 ## 打卡    
+March-21   补项目 关于SQL MAVEN Postgre 晚上OOD Design  
+March-20   Merge LinkedList.   Three Stack 实现queue  
+March-19   QuickSort, Heap Implementation. 
+March-18   BFS  - 2   
+March-17.  补project一天    
 March-16   休息一天，补之前的课程以及学习新课程  
 
  [学习笔记](https://github.com/xu9449/JAVA/wiki) 
@@ -24,7 +29,10 @@ March-16   休息一天，补之前的课程以及学习新课程
 
 
 - ## [Sorting](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/01-Sorting-Algorithm)   
-  - [MergeSort](https://docs.google.com/document/d/13wgclHC2Ho2X-bXeOU5fnXw6EJYcMH_fiZyqJo1Fw9g/edit)
+  - [MergeSort](https://docs.google.com/document/d/13wgclHC2Ho2X-bXeOU5fnXw6EJYcMH_fiZyqJo1Fw9g/edit)  
+  - [QuickSort](https://docs.google.com/document/d/1H4vWfbIbMQmN_BG50kaTLM1SFQDwxxLp3iEbU52aoT8/edit). 
+  
+  
   - Given a sorted array from 0, 1, 2, 3...to n, and there is only one missing number in it, how to find it?   
     [经典例题](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/%E7%BB%8F%E5%85%B8%E4%BE%8B%E9%A2%981)    
     [Search in Sorted Matrix I](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Search-In-Sorted-Matrix-I)   
@@ -33,6 +41,7 @@ March-16   休息一天，补之前的课程以及学习新课程
     - [Variant 1.1 how to find an element in the array that is clsest to the target number? ](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/variant-1.1.-how-to-find-an-element-in-the-array-that-is-closest-to-the-target-number%3F)    
     - [Variant 1.2 return the index of the index of the first occurrence of an element](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/Variant-1.2-return-the-index-of-the-first-occurrence-of-an-element)  
     - [Variant 1.4 return how to find closest k elements in the array that is closest to a target number?](https://github.com/xu9449/Interesting-Algorithm-_-Java/tree/master/MyNote)
+  
    
   
     
@@ -73,8 +82,13 @@ March-16   休息一天，补之前的课程以及学习新课程
     - Example question: [how to calculate a^b](https://github.com/xu9449/Interesting-Algorithm-_-Java/wiki/how-to-calculate-a%5Eb)
   ---  
     
-- ## graph
-  - [BFS1](https://docs.google.com/document/d/1OVKJcYk6oKAlesVwybIpPTRBrCUhUN9Hl0Cwfr_okwo/edit). 
+- ## Heap and Graph Search I: BFS   
+  [Code](https://docs.google.com/document/d/1Rm04LVMxSI8GAb4Pzdg9H8IC4gY8dyOviE0GPlIhZ-4/edit)
+  - [BFS1](https://docs.google.com/document/d/1OVKJcYk6oKAlesVwybIpPTRBrCUhUN9Hl0Cwfr_okwo/edit)
+  - K Smallest In Unsorted Array
+  - Get Keys in Binary Tree Layer By Layer
+  - [heap implemenation](https://docs.google.com/document/d/1jHmSlKP8OJKqfK2puFaxbSqxZg3z1Q3CfXQ-QVWnk-0/edit). 
+  
   ---  
   
 - ## Dynamic Programming  
