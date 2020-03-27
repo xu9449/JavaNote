@@ -87,7 +87,18 @@ March-16   休息一天，补之前的课程以及学习新课程
   - [BFS1](https://docs.google.com/document/d/1OVKJcYk6oKAlesVwybIpPTRBrCUhUN9Hl0Cwfr_okwo/edit)
   - K Smallest In Unsorted Array
   - Get Keys in Binary Tree Layer By Layer
-  - [heap implemenation](https://docs.google.com/document/d/1jHmSlKP8OJKqfK2puFaxbSqxZg3z1Q3CfXQ-QVWnk-0/edit). 
+  - [heap implemenation](https://docs.google.com/document/d/1jHmSlKP8OJKqfK2puFaxbSqxZg3z1Q3CfXQ-QVWnk-0/edit).   
+  Graph Search.    
+   (BFS - 1)
+  - Print a binary tree by layers.    
+  - Bipartitle.     
+  - Determine whether a binary tree is a complete binary tree.     
+  （BFS - 2)  
+  
+  
+  
+  
+  
   
   ---  
   
