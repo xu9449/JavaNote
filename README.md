@@ -95,7 +95,7 @@ March-16   休息一天，补之前的课程以及学习新课程
   - Bipartitle.     
   - Determine whether a binary tree is a complete binary tree.     
     
-    [(DFS I)](https://docs.google.com/document/d/1D40pTBR841TDuUNkorO2s1vrokee76UDcWU05onmOms/edit#) 
+- ## [Heap and Graph Search II：DFS I](https://docs.google.com/document/d/1D40pTBR841TDuUNkorO2s1vrokee76UDcWU05onmOms/edit#) 
   - Print all subsets of a set.    
   - Print all valid permutations of () () (). 
   - 凑硬币金额 99cents  
