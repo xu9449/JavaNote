@@ -26,4 +26,9 @@ public class lambda2 {
         FuncInter2 fobj = message -> System.out.println("Hello" + message);
         fobj.sayMessage("Geek");
     }
+
+    //map(),
+    
+
+
 }

@@ -2,30 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4096925-6572-4f16-8346-9c01663c1a84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/Support/lambdaExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/DesignPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/BuildPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/Desk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/src/FacoryPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode300/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode300/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode300/src/DuplicateElement.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PetHelp Starter/src/main/resources/db/migration/V1.10_test_it.sql" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PetHelp Starter/src/main/resources/db/migration/V1.9_Test_DifferentLocation.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambda/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambda/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambda/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambda/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambda/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambda/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambda/lambda.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambda/src/lambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambda/src/lambda2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duplicateElement/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duplicateElement/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duplicateElement/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duplicateElement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duplicateElement/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duplicateElement/duplicateElement.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode300/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode300/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode300/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode300/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode300/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,11 +28,11 @@
     <session id="496429116">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -80,8 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lambda/src/lambda.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="15">
+              <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -156,8 +147,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1102" />
-    <option name="y" value="78" />
+    <option name="x" value="1197" />
+    <option name="y" value="65" />
     <option name="width" value="1306" />
     <option name="height" value="952" />
   </component>
@@ -169,7 +160,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -183,14 +173,20 @@
               <item name="Interesting-Algorithm-_-Java" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Interesting-Algorithm-_-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interesting-Algorithm-_-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode300" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586928158229" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586967931661" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
@@ -225,9 +221,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1102" y="78" width="1306" height="952" extended-state="0" />
+    <frame x="1197" y="65" width="1306" height="952" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25791138" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26186708" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -291,6 +288,12 @@
     <entry file="file://$PROJECT_DIR$/Algorithm/BinarySearch/src/ClosestTarget.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/Support/lambdaExpression.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lambda/src/lambda2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm/BinarySearch/src/FirstOccurrence.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -328,16 +331,10 @@
     <entry file="file://$PROJECT_DIR$/Algorithm/BFS/bfs.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/Support/lambdaExpression.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lambda/src/lambda2.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/lambda/src/lambda.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="15">
+          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
         </state>
       </provider>
     </entry>
