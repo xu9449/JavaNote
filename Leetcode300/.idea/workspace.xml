@@ -2,20 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c871984d-e91b-47e7-a762-25dcbdfaa642" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DuplicateElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../duplicateElement/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../duplicateElement/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../duplicateElement/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../duplicateElement/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../duplicateElement/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../duplicateElement/duplicateElement.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaximumBinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryTreeIsCompleted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTreeIsCompleted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryTreePreorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTreePreorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bipartite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bipartite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KthSmallestInUnsortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KthSmallestInUnsortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KthSmallestNumberInSortedMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KthSmallestNumberInSortedMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/getKeysInBinaryTreeLayerByLayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/getKeysInBinaryTreeLayerByLayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lambda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambda/src/lambda2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda/src/lambda2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,29 +31,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="290" />
+          <entry key="java" value="1088" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="290" />
+          <entry key="JAVA" value="1088" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DuplicateElement.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -64,6 +61,99 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BinarySearch2DArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MaximumBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="43" column="49" lean-forward="true" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BinaryTreeIsCompleted.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="33" />
+              <folding>
+                <element signature="e#0#977#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/getKeysInBinaryTreeLayerByLayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-start-column="2" selection-end-line="34" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#1268#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Bipartite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-start-column="2" selection-end-line="64" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#2670#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BinaryTreePreorder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/KthSmallestNumberInSortedMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/KthSmallestInUnsortedArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-start-column="2" selection-end-line="56" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -84,12 +174,20 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/DuplicateElement.java" />
+        <option value="$PROJECT_DIR$/src/KthSmallestNumberInSortedMatrix.java" />
+        <option value="$PROJECT_DIR$/src/Bipartite.java" />
+        <option value="$PROJECT_DIR$/src/BinaryTreePreorder.java" />
+        <option value="$PROJECT_DIR$/src/BinaryTreeIsCompleted.java" />
+        <option value="$PROJECT_DIR$/src/getKeysInBinaryTreeLayerByLayer.java" />
+        <option value="$PROJECT_DIR$/src/KthSmallestInUnsortedArray.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearch2DArray.java" />
+        <option value="$PROJECT_DIR$/src/MaximumBinaryTree.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="483" />
-    <option name="y" value="127" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2863" />
+    <option name="y" value="56" />
     <option name="width" value="1680" />
     <option name="height" value="957" />
   </component>
@@ -125,7 +223,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586978987750" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587071600633" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,6 +236,32 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Application.MaximumBinaryTree">
+    <configuration name="BinarySearch2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch2DArray" />
+      <module name="Leetcode300" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaximumBinaryTree" />
+      <module name="Leetcode300" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BinarySearch2DArray" />
+      <item itemvalue="Application.MaximumBinaryTree" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaximumBinaryTree" />
+        <item itemvalue="Application.BinarySearch2DArray" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -153,7 +277,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="483" y="127" width="1680" height="957" extended-state="1" />
+    <frame x="2584" y="50" width="1680" height="957" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -165,7 +289,7 @@
       <window_info id="Capture Tool" />
       <window_info id="Job Explorer" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Log Viewer" />
       <window_info anchor="bottom" id="DB Execution Console" />
@@ -173,12 +297,13 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Anonymous Apex" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" weight="0.32947975" />
       <window_info anchor="bottom" id="SOQL Query" />
       <window_info anchor="bottom" id="Console" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32947975" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -195,11 +320,104 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MaximumBinaryTree.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MaximumBinaryTree.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/DuplicateElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KthSmallestNumberInSortedMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bipartite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-start-column="2" selection-end-line="64" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#2670#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTreePreorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTreeIsCompleted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="33" />
+          <folding>
+            <element signature="e#0#977#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/getKeysInBinaryTreeLayerByLayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-start-column="2" selection-end-line="34" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#1268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KthSmallestInUnsortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-start-column="2" selection-end-line="56" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearch2DArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaximumBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="43" column="49" lean-forward="true" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

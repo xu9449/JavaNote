@@ -28,7 +28,7 @@ public class lambda2 {
     }
 
     //map(),
-    
+
 
 
 }

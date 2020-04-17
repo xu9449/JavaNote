@@ -39,40 +39,40 @@ public class KthSmallestInUnsortedArray {
                 return result;
             }
 
+//
+//
+//            // method 2 : quick select
+//        public int[] kSmallestII(int[] array, int k) {
+//            if (array.length == 0 || k == 0) {
+//                return new int[0];
+//            }
+//            // QuickSelect to find the kth smallest element
+//            // after calling this method, the first k elements in the array
+//            // are the k smallest ones(but not sorted)
+//            quickSelect(array, 0, array.length - 1, k - 1);
+//            // copy out the first k element and sort them
+//            int[] result = Arrays.copyOf(array, k);
+//            Arrays.sort(result);
+//            return result;
+//        }
 
-
-            // method 2 : quick select
-        public int[] kSmallestII(int[] array, int k) {
-            if (array.length == 0 || k == 0) {
-                return new int[0];
-            }
-            // QuickSelect to find the kth smallest element
-            // after calling this method, the first k elements in the array
-            // are the k smallest ones(but not sorted)
-            quickSelect(array, 0, array.length - 1, k - 1);
-            // copy out the first k element and sort them
-            int[] result = Arrays.copyOf(array, k);
-            Arrays.sort(result);
-            return result;
-        }
-
-        private void quickSelect(int[] array, int left, int right, int target) {
-            // like quick sort, we need to do the partition using pivot value
-            int mid = partition(array, left, right);
-            // unlike quick sort, we only need to do quickselect on at most one partition.
-            // if the pivot is alreaddy the kth smallest element, we can directly return.
-            if (mid == target) {
-                return;
-            } else if (target < mid) {
-                // only need to recursively call quick select on the left partition
-                // if the kth smallest one is in the left partition.
-                quickSelect(array, left, mid - 1; target);
-            } else {
-                // only need to recursively call quick select on the right partition
-                // if the kth smallest one is in the right partition.
-                quickSelect(array, mid + 1, right, target);
-            }
-        }
+//        private void quickSelect(int[] array, int left, int right, int target) {
+//            // like quick sort, we need to do the partition using pivot value
+//            int mid = partition(array, left, right);
+//            // unlike quick sort, we only need to do quickselect on at most one partition.
+//            // if the pivot is alreaddy the kth smallest element, we can directly return.
+//            if (mid == target) {
+//                return;
+//            } else if (target < mid) {
+//                // only need to recursively call quick select on the left partition
+//                // if the kth smallest one is in the left partition.
+//                quickSelect(array, left, mid - 1; target);
+//            } else {
+//                // only need to recursively call quick select on the right partition
+//                // if the kth smallest one is in the right partition.
+//                quickSelect(array, mid + 1, right, target);
+//            }
+//        }
 
         private int partition(int[] array, int left, int right) {
             int pivot = array[right];
