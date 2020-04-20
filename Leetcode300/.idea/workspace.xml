@@ -2,13 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c871984d-e91b-47e7-a762-25dcbdfaa642" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HeapImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxAreaOfIsland.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchInRoatatedSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hangeHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/Reflection/BasicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/Reflection/ClassReflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/Reflection/MyAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/Reflection/Reflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/Reflection/annotationClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DesignPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesignPattern/DesignPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPattern/src/DesignPatern/DesignPattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesignPattern/src/BuildPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPattern/src/DesignPatern/BuildPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesignPattern/src/Desk.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPattern/src/DesignPatern/Desk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesignPattern/src/FacoryPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPattern/src/DesignPatern/FacoryPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesignPattern/src/PrototypePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPattern/src/DesignPatern/PrototypePattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lambda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/HeapImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode300/HeapImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HeapImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeapImp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,12 +45,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2859" />
+          <entry key="java" value="2940" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2859" />
+          <entry key="JAVA" value="2940" />
         </counts>
       </usages-collector>
     </session>
@@ -71,20 +78,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HeapImp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+            <state relative-caret-position="165">
+              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="64" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MaxAreaOfIsland.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="315">
+              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -175,14 +182,14 @@
         <option value="$PROJECT_DIR$/src/MaximumBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/SearchInRoatatedSortedArray.java" />
         <option value="$PROJECT_DIR$/src/hangeHeap.java" />
-        <option value="$PROJECT_DIR$/src/HeapImp.java" />
         <option value="$PROJECT_DIR$/src/MaxAreaOfIsland.java" />
+        <option value="$PROJECT_DIR$/src/HeapImp.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="3038" />
-    <option name="y" value="61" />
+    <option name="x" value="3064" />
+    <option name="y" value="23" />
     <option name="width" value="1153" />
     <option name="height" value="957" />
   </component>
@@ -218,7 +225,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587344533895" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587415061221" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -232,7 +239,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxAreaOfIsland">
+  <component name="RunManager" selected="Application.HeapImp">
     <configuration name="BinarySearch2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch2DArray" />
       <module name="Leetcode300" />
@@ -277,8 +284,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxAreaOfIsland" />
         <item itemvalue="Application.HeapImp" />
+        <item itemvalue="Application.MaxAreaOfIsland" />
         <item itemvalue="Application.SearchInRoatatedSortedArray" />
         <item itemvalue="Application.MaximumBinaryTree" />
         <item itemvalue="Application.BinarySearch2DArray" />
@@ -299,7 +306,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2983" y="81" width="1153" height="957" extended-state="0" />
+    <frame x="3064" y="23" width="1153" height="957" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37263727" />
@@ -469,17 +476,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HeapImp.java">
+    <entry file="file://$PROJECT_DIR$/src/MaxAreaOfIsland.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        <state relative-caret-position="315">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MaxAreaOfIsland.java">
+    <entry file="file://$PROJECT_DIR$/src/HeapImp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="165">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="64" />
         </state>
       </provider>
     </entry>

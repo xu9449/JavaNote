@@ -1,3 +1,5 @@
+package DesignPatern;
+
 public class Desk {
     // constructor 是 private的,让用户不可以随便new instance
     private static Desk instance;

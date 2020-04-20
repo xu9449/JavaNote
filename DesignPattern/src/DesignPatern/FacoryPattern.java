@@ -1,5 +1,4 @@
-import java.util.Comparator;
-
+package DesignPatern;
 
 
 class Computer {
