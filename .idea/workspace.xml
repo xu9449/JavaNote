@@ -2,21 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4096925-6572-4f16-8346-9c01663c1a84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode300/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode300/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode300/src/DuplicateElement.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PetHelp Starter/src/main/resources/db/migration/V1.10_test_it.sql" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PetHelp Starter/src/main/resources/db/migration/V1.9_Test_DifferentLocation.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/duplicateElement/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/duplicateElement/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/duplicateElement/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/duplicateElement/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/duplicateElement/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/duplicateElement/duplicateElement.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode300/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reflection/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reflection/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reflection/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reflection/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reflection/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reflection/Reflection.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Leetcode300/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode300/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lambda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lambda/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,11 +23,12 @@
     <session id="496429116">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -71,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lambda/src/lambda.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+            <state relative-caret-position="195">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -147,8 +143,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1197" />
-    <option name="y" value="65" />
+    <option name="x" value="3041" />
+    <option name="y" value="88" />
     <option name="width" value="1306" />
     <option name="height" value="952" />
   </component>
@@ -160,7 +156,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,21 +163,12 @@
               <item name="Interesting-Algorithm-_-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Interesting-Algorithm-_-Java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Interesting-Algorithm-_-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interesting-Algorithm-_-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Interesting-Algorithm-_-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interesting-Algorithm-_-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="Leetcode300" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,10 +207,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1197" y="65" width="1306" height="952" extended-state="0" />
-    <editor active="true" />
+    <frame x="3041" y="88" width="1306" height="952" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26186708" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2658228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -333,8 +318,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lambda/src/lambda.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        <state relative-caret-position="195">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
