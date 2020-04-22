@@ -1,11 +1,25 @@
 
 import java.io.PrintStream;
+import java.lang.annotation.Annotation;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
 public class Test {
     public static void main(String[] args) {
+        Class aClass = TheClass.class;
+        Annotation annotation = aClass.getAnnotation(MyAnnotation.class);
+
+        if(annotation instanceof MyAnnotation){
+            MyAnnotation myAnnotation = (MyAnnotation) annotation;
+            System.out.println("name:" + myAnnotation.name());
+            System.out.println("value:" + myAnnotation.value());
+        }
+
+
+
+
+
         int a = 2;
         Pet obj = new Pet(a);
         Class cls = obj.getClass();
