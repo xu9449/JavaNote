@@ -1,17 +1,39 @@
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class HeapImp {
 
-    private static Integer[] array = {2,4,5,6};
-    private static Integer[] newArray = new Integer[array.length * 2];
-
-    private int size;
-
-
-    public static void main(String[] args) {
-//        newArray = Arrays.copyOfRange(array, 0, array.length);
-        System.out.println(Arrays.toString(newArray));
+    public static void main(String[] args){
+        List<Integer> abc;
+        abc = new ArrayList<>();
+//        String a1 = new String("abc");
+//        String a2 = new String("abc");
+        // a.add(a1);
+        //a.add(a2);
+//        System.out.println(a);
+//        a.remove(a2);
+//        System.out.println(a);
+//        Integer a = new Integer(100);
+//        Integer b = new Integer(100);
+        Integer c = 1000;
+        Integer d = 1000;
+        //System.out.println(c ==d);
+        abc.add(c);
+        System.out.println(abc);
+        abc.remove(d);
+        System.out.println(abc);
     }
+//    private static Integer[] array = {2,4,5,6};
+//    private static Integer[] newArray = new Integer[array.length * 2];
+//
+//    private int size;
+//
+//
+//    public static void main(String[] args) {
+////        newArray = Arrays.copyOfRange(array, 0, array.length);
+//        System.out.println(Arrays.toString(newArray));
+//    }
 //    public HeapImp() {
 //        if (array == null || array.length == 0) {
 //            throw new IllegalArgumentException("input array can not be null or empty");
@@ -59,9 +81,9 @@ public class HeapImp {
 //        }
 //    }
 
-    public void swap(int[] array, int a, int b){
-        int tmp = array[a];
-        array[a] = array[b];
-        array[b] = tmp;
-    }
+//    public void swap(int[] array, int a, int b){
+//        int tmp = array[a];
+//        array[a] = array[b];
+//        array[b] = tmp;
+//    }
 }

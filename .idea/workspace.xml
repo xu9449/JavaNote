@@ -4,13 +4,7 @@
     <list default="true" id="d4096925-6572-4f16-8346-9c01663c1a84" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/PetHelp Starter/src/main/resources/db/migration/V1.10_test_it.sql" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PetHelp Starter/src/main/resources/db/migration/V1.9_Test_DifferentLocation.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/Reflection.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode300/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reflection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Reflection/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lambda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lambda/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,12 +17,12 @@
     <session id="496429116">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -68,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/lambda/src/lambda.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -143,8 +137,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3041" />
-    <option name="y" value="88" />
+    <option name="x" value="2934" />
+    <option name="y" value="32" />
     <option name="width" value="1306" />
     <option name="height" value="952" />
   </component>
@@ -156,6 +150,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,7 +162,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -207,9 +201,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3041" y="88" width="1306" height="952" extended-state="0" />
+    <frame x="2934" y="32" width="1306" height="952" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2658228" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2697785" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -319,7 +313,7 @@
     <entry file="file://$PROJECT_DIR$/lambda/src/lambda.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
