@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c871984d-e91b-47e7-a762-25dcbdfaa642" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CombinationsOfCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParenthesesI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Reflection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Reflection/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StringImmutable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringImmutable/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,49 +18,37 @@
     <session id="1142673286">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="14" />
+          <entry key="java" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="14" />
+          <entry key="JAVA" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2942" />
+          <entry key="java" value="3205" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2942" />
+          <entry key="JAVA" value="3205" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MaximumBinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="42" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SearchInRoatatedSortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -68,13 +58,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/HeapImp.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ParenthesesI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="223">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CombinationsOfCoins.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#180#195#0" expanded="true" />
+                <element signature="e#216#225#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -177,12 +181,14 @@
         <option value="$PROJECT_DIR$/src/hangeHeap.java" />
         <option value="$PROJECT_DIR$/src/MaxAreaOfIsland.java" />
         <option value="$PROJECT_DIR$/src/HeapImp.java" />
+        <option value="$PROJECT_DIR$/src/ParenthesesI.java" />
+        <option value="$PROJECT_DIR$/src/CombinationsOfCoins.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3256" />
-    <option name="y" value="26" />
+    <option name="x" value="2845" />
+    <option name="y" value="59" />
     <option name="width" value="1153" />
     <option name="height" value="957" />
   </component>
@@ -218,7 +224,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587683847130" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587751082779" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -232,9 +238,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HeapImp">
-    <configuration name="BinarySearch2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch2DArray" />
+  <component name="RunManager" selected="Application.CombinationsOfCoins">
+    <configuration name="CombinationsOfCoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CombinationsOfCoins" />
       <module name="Leetcode300" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -254,8 +260,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaximumBinaryTree" />
+    <configuration name="ParenthesesI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParenthesesI" />
       <module name="Leetcode300" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -269,19 +275,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BinarySearch2DArray" />
-      <item itemvalue="Application.MaximumBinaryTree" />
       <item itemvalue="Application.SearchInRoatatedSortedArray" />
       <item itemvalue="Application.HeapImp" />
       <item itemvalue="Application.MaxAreaOfIsland" />
+      <item itemvalue="Application.ParenthesesI" />
+      <item itemvalue="Application.CombinationsOfCoins" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CombinationsOfCoins" />
+        <item itemvalue="Application.ParenthesesI" />
         <item itemvalue="Application.HeapImp" />
         <item itemvalue="Application.MaxAreaOfIsland" />
         <item itemvalue="Application.SearchInRoatatedSortedArray" />
-        <item itemvalue="Application.MaximumBinaryTree" />
-        <item itemvalue="Application.BinarySearch2DArray" />
       </list>
     </recent_temporary>
   </component>
@@ -299,10 +305,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3256" y="26" width="1153" height="957" extended-state="0" />
-    <editor active="true" />
+    <frame x="820" y="23" width="1153" height="957" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3789379" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38523853" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -381,6 +386,30 @@
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ParenthesesI.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ParenthesesI.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CombinationsOfCoins.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CombinationsOfCoins.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -420,13 +449,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SearchInRoatatedSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -488,9 +510,38 @@
     <entry file="file://$PROJECT_DIR$/src/HeapImp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+          <caret line="25" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SearchInRoatatedSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ParenthesesI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CombinationsOfCoins.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#180#195#0" expanded="true" />
+            <element signature="e#216#225#0" expanded="true" />
           </folding>
         </state>
       </provider>
