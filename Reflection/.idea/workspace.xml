@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f471db99-d0a6-4db5-bafb-ad07e5decb49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../StringImmutable/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringImmutable/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringImmutable/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringImmutable/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringImmutable/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringImmutable/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringImmutable/StringImmutable.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringImmutable/src/MutableLocation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Leetcode300/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Leetcode300/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leetcode300/out/production/Leetcode300/HeapImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Leetcode300/out/production/Leetcode300/HeapImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leetcode300/src/HeapImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Leetcode300/src/HeapImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lambda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringImmutable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringImmutable/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -168,7 +156,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587679634756" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587683847085" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -211,7 +199,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1422" y="60" width="1306" height="952" extended-state="1" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />

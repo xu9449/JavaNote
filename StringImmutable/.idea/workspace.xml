@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35a1a995-31b9-4172-9649-1800f9a9fbea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringImmutable.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MutableLocation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Leetcode300/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Leetcode300/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leetcode300/out/production/Leetcode300/HeapImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Leetcode300/out/production/Leetcode300/HeapImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leetcode300/src/HeapImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Leetcode300/src/HeapImp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Reflection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Reflection/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lambda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,6 +16,7 @@
     <session id="1565444137">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -119,7 +108,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587679634791" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587683847100" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -148,7 +137,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2570" y="110" width="1680" height="957" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
