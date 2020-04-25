@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Interesting-Algorithm-_-Java.iml" filepath="$PROJECT_DIR$/.idea/Interesting-Algorithm-_-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heapSort.iml" filepath="$PROJECT_DIR$/heapSort.iml" />
     </modules>
   </component>
 </project>
