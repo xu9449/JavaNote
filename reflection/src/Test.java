@@ -4,16 +4,25 @@ import java.lang.annotation.Annotation;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
+import java.util.Arrays;
 
 public class Test {
     public static void main(String[] args) {
         Class aClass = TheClass.class;
         Annotation annotation = aClass.getAnnotation(MyAnnotation.class);
+        Annotation annotation1 = aClass.getAnnotation(Persons.class);
+
+
 
         if(annotation instanceof MyAnnotation){
             MyAnnotation myAnnotation = (MyAnnotation) annotation;
             System.out.println("name:" + myAnnotation.name());
             System.out.println("value:" + myAnnotation.value());
+        }
+
+        if(annotation1 instanceof Persons){
+            Persons myAnnotation = (Persons) annotation1;
+            System.out.println("name:" + Arrays.toString(myAnnotation.value()));
         }
 
 

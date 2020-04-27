@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d238ecc8-809f-44b4-9c13-2e85b6e48694" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../StringImmutable/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringImmutable/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringImmutable/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringImmutable/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringImmutable/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringImmutable/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringImmutable/StringImmutable.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringImmutable/src/MutableLocation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reflection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Reflection/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reflection/src/Persons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode300/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode300/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reflection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reflection/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reflection/out/production/Reflection/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../reflection/out/production/Reflection/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reflection/out/production/Reflection/TheClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../reflection/out/production/Reflection/TheClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reflection/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../reflection/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reflection/src/TheClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../reflection/src/TheClass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,12 +21,12 @@
     <session id="-136185337">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.35" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -78,7 +74,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LambdaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
+            <state relative-caret-position="544">
               <caret line="79" column="64" selection-start-line="79" selection-start-column="64" selection-end-line="79" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -109,8 +105,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1234" />
-    <option name="y" value="60" />
+    <option name="x" value="1003" />
+    <option name="y" value="99" />
     <option name="width" value="1410" />
     <option name="height" value="952" />
   </component>
@@ -138,8 +134,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -209,10 +205,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1234" y="60" width="1410" height="952" extended-state="0" />
-    <editor active="true" />
+    <frame x="1003" y="99" width="1410" height="952" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24561404" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24926901" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -269,7 +264,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LambdaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
+        <state relative-caret-position="544">
           <caret line="79" column="64" selection-start-line="79" selection-start-column="64" selection-end-line="79" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c871984d-e91b-47e7-a762-25dcbdfaa642" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Multithreaded/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreaded/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreaded/src/MultiRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../heapSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../heapSort/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CombinationsOfCoins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CombinationsOfCoins.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reflection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reflection/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c871984d-e91b-47e7-a762-25dcbdfaa642" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +44,7 @@
     <session id="-2143298778">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -93,8 +87,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CombinationsOfCoins.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="18" selection-start-line="25" selection-start-column="16" selection-end-line="31" selection-end-column="17" />
+            <state relative-caret-position="195">
+              <caret line="13" column="49" lean-forward="true" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#550#565#0" expanded="true" />
@@ -207,8 +201,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="309" />
-    <option name="y" value="56" />
+    <option name="x" value="284" />
+    <option name="y" value="93" />
     <option name="width" value="1470" />
     <option name="height" value="957" />
   </component>
@@ -239,7 +233,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587837168141" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587837313354" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -320,7 +314,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-72" y="38" width="1470" height="957" extended-state="0" />
+    <frame x="284" y="93" width="1470" height="957" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31092438" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -335,7 +330,7 @@
       <window_info id="Learn" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32947975" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32947975" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -551,8 +546,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CombinationsOfCoins.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="18" selection-start-line="25" selection-start-column="16" selection-end-line="31" selection-end-column="17" />
+        <state relative-caret-position="195">
+          <caret line="13" column="49" lean-forward="true" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#550#565#0" expanded="true" />
