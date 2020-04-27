@@ -1,4 +1,6 @@
 
+import javafx.geometry.BoundingBox;
+
 import java.io.PrintStream;
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Constructor;
@@ -7,10 +9,48 @@ import java.lang.reflect.Method;
 import java.util.Arrays;
 
 public class Test {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ClassNotFoundException, NoSuchMethodException, InvocationTargetException, IllegalAccessException, InstantiationException {
         Class aClass = TheClass.class;
         Annotation annotation = aClass.getAnnotation(MyAnnotation.class);
         Annotation annotation1 = aClass.getAnnotation(Persons.class);
+
+        TheClass tt = new TheClass();
+        Class yy = tt.getClass();
+        Class test = Class.forName("TheClass");
+
+
+        Method ttttt = yy.getDeclaredMethod("Test03", int.class) ;
+        ttttt.setAccessible(true);
+
+        try{
+
+            // 如何通过inner class 取出
+            // 要通过constructor， 然后创建一个constructor的object，然后在调用method的时候，通过inner constructor来调用
+            TheClass outerObject = new TheClass();
+
+            Class innerClass = Class.forName("TheClass$TheClass2");
+
+            Constructor innerCons = innerClass.getConstructor(TheClass.class);
+            innerCons.setAccessible(true);
+            Object obj = innerCons.newInstance(outerObject);
+
+
+            Method innerMethod = innerClass.getDeclaredMethod("Test04");
+
+            innerMethod.setAccessible(true);
+
+
+            innerMethod.invoke(obj);
+
+
+
+            }catch (Exception e) {
+            System.out.println("no");
+        }
+
+
+
+        ttttt.invoke(tt, 33);
 
 
 
