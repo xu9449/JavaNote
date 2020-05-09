@@ -13,6 +13,7 @@ public class PermutationOfString {
     public static void main(String[] args) {
         PermutationOfString s = new PermutationOfString();
         String input = "wxyz";
+        String.valueOf(3);
         List<String> result = s.permutation(input);
         System.out.println(result);
     }
