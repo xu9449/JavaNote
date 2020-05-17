@@ -23,16 +23,8 @@ public class RegexMatchex {
         if(m.find()){
             System.out.println("Found value:" + m.group(0));
             System.out.println("Found value:" + m.group(1));
-
             System.out.println("Found value:" + m.group(2));
-
-
-
             System.out.println("Found value:" + m.group(3));
-
-
-
-
         }
         return true;
     }

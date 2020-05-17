@@ -5,7 +5,7 @@ public class Permutation {
 
     public static void main(String[] args) {
         Permutation p = new Permutation();
-        String s = "abca";
+        String s = "abc";
         char[] input = s.toCharArray();
         p.permutation(input, 0);
 
