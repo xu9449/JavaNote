@@ -2,55 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d238ecc8-809f-44b4-9c13-2e85b6e48694" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../designPattern/.idea/designPattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../designPattern/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../designPattern/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../designPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../designPattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambda2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambda2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode300/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leetcode300/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode300/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/BinarySearch2DArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/CombinationsOfCoins.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/DailyTemperature$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/DailyTemperature.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/DuplicateElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/FindFirstandLastPosition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/ForLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/HeapImp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/KthElementInArray$KSmallest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/KthElementInArray$KSmallest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/KthElementInArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/KthSmallestInUnsortedArray$Smallest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/KthSmallestInUnsortedArray$Smallest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/KthSmallestInUnsortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/KthTwoSum$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/KthTwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/MaxAreaOfIsland.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/MaximumBinaryTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/MaximumBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/ParenthesesI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/Permutation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/PermutationOfString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/RecursiveMemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/RemoveUnderlineOfSente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/ReverseLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/SearchInRoatatedSortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/SortWithTwoStack$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/SortWithTwoStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/SplitString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/SwapSwap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/findMaxValueInArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/hangeHeap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/kthSmallestSumFromTwoSortedArrays$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/kthSmallestSumFromTwoSortedArrays$Element.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/kthSmallestSumFromTwoSortedArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/out/production/Leetcode300/mergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode300/src/TopologicalSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode300/src/TopologicalSorting.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,7 +15,7 @@
     <session id="-136185337">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
@@ -110,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lambda2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            <state relative-caret-position="315">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
               <folding>
                 <element signature="e#592#593#0" expanded="true" />
                 <element signature="e#617#618#0" expanded="true" />
@@ -158,8 +110,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="344" />
-    <option name="y" value="85" />
+    <option name="x" value="467" />
+    <option name="y" value="31" />
     <option name="width" value="1410" />
     <option name="height" value="952" />
   </component>
@@ -198,7 +150,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590807957367" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590851902226" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -264,9 +216,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="344" y="85" width="1410" height="952" extended-state="0" />
+    <frame x="467" y="31" width="1410" height="952" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2602339" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2602339" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -279,7 +232,7 @@
       <window_info id="Learn" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32906976" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32906976" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -327,8 +280,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lambda2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        <state relative-caret-position="315">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="e#592#593#0" expanded="true" />
             <element signature="e#617#618#0" expanded="true" />

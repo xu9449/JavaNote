@@ -2,55 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c871984d-e91b-47e7-a762-25dcbdfaa642" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../designPattern/.idea/designPattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../designPattern/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../designPattern/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../designPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../designPattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lambda/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lambda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lambda/src/LambdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda/src/LambdaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lambda/src/lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda/src/lambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lambda/src/lambda2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda/src/lambda2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/BinarySearch2DArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/CombinationsOfCoins.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/DailyTemperature$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/DailyTemperature.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/DuplicateElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/FindFirstandLastPosition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/ForLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/HeapImp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/KthElementInArray$KSmallest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/KthElementInArray$KSmallest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/KthElementInArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/KthSmallestInUnsortedArray$Smallest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/KthSmallestInUnsortedArray$Smallest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/KthSmallestInUnsortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/KthTwoSum$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/KthTwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/MaxAreaOfIsland.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/MaximumBinaryTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/MaximumBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/ParenthesesI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/Permutation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/PermutationOfString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/RecursiveMemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/RemoveUnderlineOfSente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/ReverseLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/SearchInRoatatedSortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/SortWithTwoStack$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/SortWithTwoStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/SplitString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/SwapSwap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/findMaxValueInArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/hangeHeap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/kthSmallestSumFromTwoSortedArrays$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/kthSmallestSumFromTwoSortedArrays$Element.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/kthSmallestSumFromTwoSortedArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode300/mergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TopologicalSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TopologicalSorting.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,7 +46,7 @@
     <session id="-2143298778">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.2" value="4" />
@@ -422,6 +374,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="424" y="93" width="1350" height="957" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3149847" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
