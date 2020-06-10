@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e61e911a-fefb-4b02-a257-42875253eef2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../hange-interview01/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hange-interview01/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hange-interview01/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hange-interview01/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hange-interview01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hange-interview01/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hange-interview01/hange-interview01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hange-interview01/src/smallestNumberOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarytree/treetraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hange-interview01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hange-interview01/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,6 +15,7 @@
     <session id="342340087">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -66,7 +57,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="746" />
-    <option name="y" value="23" />
+    <option name="y" value="50" />
     <option name="width" value="1350" />
     <option name="height" value="957" />
   </component>
@@ -99,7 +90,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591576042664" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591586805272" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -130,8 +121,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="746" y="23" width="1350" height="957" extended-state="0" />
-    <editor active="true" />
+    <frame x="746" y="50" width="1350" height="957" extended-state="0" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
