@@ -1,19 +1,33 @@
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 
 public class Finback670 {
     public static void main(String[] args) {
-        Object [][] a = {
-                        {"apple"},
-                        {"banana", "strawberry", "apple"}
-                        };
-        System.out.println(args);
-        Set<Integer> c = new HashSet<Integer>();
-        c.add(213);
-        Map<Integer,Object> d = new HashMap<>();
-        d.put(213,Object a);
+        List<List<Integer>> c = new ArrayList<>();
+        List<List<Integer>> d = new ArrayList<>();
+        List<Integer> a = new ArrayList<>();
+        a.add(1);
+        a.add(2);
+        a.add(3);
+
+        List<Integer> b = new ArrayList<>();
+        b.add(1);
+        b.add(2);
+        b.add(3);
+        d.add(a);
+        d.add(b);
+        c.addAll(d);
+        c.add(b);
+        System.out.println(c);
+        Deque<Integer> dq = new ArrayDeque<>();
+        dq.offer(1);
+
+
+        short s1 = 1;
+        s1 +=1;
+
+        System.out.println((s1));
+
+
     }
 
 }
