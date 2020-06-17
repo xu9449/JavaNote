@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/allvalidpermutationofparenthesesI/allvalidpermutationofparenthesesI.iml" filepath="$PROJECT_DIR$/allvalidpermutationofparenthesesI/allvalidpermutationofparenthesesI.iml" />
       <module fileurl="file://$PROJECT_DIR$/laicode.iml" filepath="$PROJECT_DIR$/laicode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
     </modules>
   </component>
 </project>

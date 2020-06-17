@@ -2,14 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c215611c-b1ad-4012-b95d-66babc7c0587" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heapimplementation/Heapimplementation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heapimplementation/src/Heapimplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashmap/src/HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashmap/src/HashMapFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java8/src/NewDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java8/src/TestSimpleDateFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithread/multithread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithread/src/multithread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laicode/string/src/ChoosePP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laicode/string/src/RemoveCertainChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laicode/string/string.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hange-interview01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hange-interview01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hange-interview01/out/production/hange-interview01/Finback670.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hange-interview01/out/production/hange-interview01/Finback670.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hange-interview01/src/Finback670.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hange-interview01/src/Finback670.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreaded/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreaded/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreaded/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreaded/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreaded/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreaded/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreaded/multithreaded.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hashmap/hashmap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreaded/out/production/multithreaded/MultiRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreaded/src/MultiRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/java8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/OptionalClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/OptionalClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laicode/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laicode/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laicode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laicode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laicode/out/production/allvalidpermutationofparenthesesI/CombinationOfCoins.class" beforeDir="false" afterPath="$PROJECT_DIR$/../laicode/out/production/allvalidpermutationofparenthesesI/CombinationOfCoins.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,55 +41,150 @@
     <session id="272176862">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="iml" value="3" />
+          <entry key="java" value="14" />
+          <entry key="kt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="IDEA_MODULE" value="3" />
+          <entry key="JAVA" value="14" />
+          <entry key="Kotlin" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="905" />
+          <entry key="dummy" value="15" />
+          <entry key="java" value="3606" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="905" />
+          <entry key="JAVA" value="3606" />
+          <entry key="PLAIN_TEXT" value="15" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/designPattern/src/DesignPatern/Desk.java">
+        <entry file="file://$PROJECT_DIR$/java8/src/OptionalClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            <state relative-caret-position="60">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/heapimplementation/src/Heapimplementation.java">
+        <entry file="file://$PROJECT_DIR$/multithread/src/multithread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1590">
-              <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
+            <state relative-caret-position="75">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hashmap/src/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
               <folding>
-                <element signature="e#654#655#0" expanded="true" />
-                <element signature="e#681#682#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1936#1937#0" expanded="true" />
+                <element signature="e#1963#1964#0" expanded="true" />
+                <element signature="e#2135#2136#0" expanded="true" />
+                <element signature="e#2162#2163#0" expanded="true" />
+                <element signature="e#2213#2214#0" expanded="true" />
+                <element signature="e#2240#2241#0" expanded="true" />
+                <element signature="e#2296#2297#0" expanded="true" />
+                <element signature="e#2323#2324#0" expanded="true" />
+                <element signature="e#4219#4220#0" expanded="true" />
+                <element signature="e#4247#4248#0" expanded="true" />
+                <element signature="e#4307#4308#0" expanded="true" />
+                <element signature="e#4335#4336#0" expanded="true" />
+                <element signature="e#4399#4400#0" expanded="true" />
+                <element signature="e#4427#4428#0" expanded="true" />
+                <element signature="e#4473#4474#0" expanded="true" />
+                <element signature="e#4500#4501#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hashmap/src/HashMapFunctions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="40" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="525" column="20" selection-start-line="525" selection-start-column="20" selection-end-line="525" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/multithread/multithread.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../laicode/string/src/ChoosePP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java8/src/NewDate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java8/src/TestSimpleDateFormat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java8/src/UniquePair.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -77,9 +192,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get</find>
+      <find>remove</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -89,12 +211,24 @@
       <list>
         <option value="$PROJECT_DIR$/heapimplementation/src/heapimplementation.java" />
         <option value="$PROJECT_DIR$/heapimplementation/src/Heapimplementation.java" />
+        <option value="$PROJECT_DIR$/multithread/src/MultiRunnable.java" />
+        <option value="$PROJECT_DIR$/multithread/src/Multithread.java" />
+        <option value="$PROJECT_DIR$/multithread/src/Multithreadd.java" />
+        <option value="$PROJECT_DIR$/java8/src/OptionalClass.java" />
+        <option value="$PROJECT_DIR$/multithread/src/multithread.java" />
+        <option value="$PROJECT_DIR$/hashmap/src/Implementation.java" />
+        <option value="$PROJECT_DIR$/hashmap/src/HashMap.java" />
+        <option value="$PROJECT_DIR$/java8/src/Date.java" />
+        <option value="$PROJECT_DIR$/java8/src/NewDate.java" />
+        <option value="$PROJECT_DIR$/java8/src/TestSimpleDateFormat.java" />
+        <option value="$PROJECT_DIR$/../laicode/string/src/ChoosePP.java" />
+        <option value="$PROJECT_DIR$/hashmap/src/HashMapFunctions.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1359" />
-    <option name="y" value="131" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="57" />
+    <option name="y" value="106" />
     <option name="width" value="1350" />
     <option name="height" value="957" />
   </component>
@@ -107,6 +241,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,47 +252,49 @@
             <path>
               <item name="java_knowledge" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="hashmap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java_knowledge" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="hashmap" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java_knowledge" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DesignPatern" type="462c0819:PsiDirectoryNode" />
+              <item name="multithread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java_knowledge" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="heapimplementation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_knowledge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="heapimplementation" type="462c0819:PsiDirectoryNode" />
+              <item name="multithread" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java_knowledge" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="multithread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="multithread.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591892379439" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592363985254" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/multithread/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -170,6 +307,50 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Application.HashMapFunctions">
+    <configuration name="HashMapFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapFunctions" />
+      <module name="hashmap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiRunnable" />
+      <module name="multithread" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewDate" />
+      <module name="java8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSimpleDateFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestSimpleDateFormat" />
+      <module name="java8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MultiRunnable" />
+      <item itemvalue="Application.NewDate" />
+      <item itemvalue="Application.TestSimpleDateFormat" />
+      <item itemvalue="Application.HashMapFunctions" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HashMapFunctions" />
+        <item itemvalue="Application.TestSimpleDateFormat" />
+        <item itemvalue="Application.NewDate" />
+        <item itemvalue="Application.MultiRunnable" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -185,49 +366,55 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1359" y="131" width="1350" height="957" extended-state="0" />
+    <frame x="57" y="106" width="1350" height="957" extended-state="1" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="DB Browser" />
-      <window_info id="UI Designer" />
-      <window_info id="Project Explorer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Job Explorer" />
-      <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26911315" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Log Viewer" />
-      <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Anonymous Apex" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="SOQL Query" />
-      <window_info anchor="bottom" id="Console" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Project Explorer" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info id="Job Explorer" order="9" />
+      <window_info id="Learn" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32947975" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Log Viewer" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="12" />
+      <window_info anchor="bottom" id="SOQL Query" order="13" />
+      <window_info anchor="bottom" id="Console" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Thumbnails" order="16" weight="0.32947975" />
+      <window_info anchor="bottom" id="Messages" order="17" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Multithreaded/multithreaded.iml" />
+    <entry file="file://$PROJECT_DIR$/multithread/src/MultiRunnable.java" />
+    <entry file="file://$PROJECT_DIR$/multithread/src/Multithreadd.java" />
+    <entry file="file://$PROJECT_DIR$/hashmap/src/HashMapFunctions.kt" />
     <entry file="file://$PROJECT_DIR$/designPattern/src/DesignPatern/Desk.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -237,21 +424,175 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/heapimplementation/src/Heapimplementation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1590">
-          <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
+        <state relative-caret-position="1560">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/OptionalClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hashmap/src/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
           <folding>
-            <element signature="e#654#655#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1936#1937#0" expanded="true" />
+            <element signature="e#1963#1964#0" expanded="true" />
+            <element signature="e#2135#2136#0" expanded="true" />
+            <element signature="e#2162#2163#0" expanded="true" />
+            <element signature="e#2213#2214#0" expanded="true" />
+            <element signature="e#2240#2241#0" expanded="true" />
+            <element signature="e#2296#2297#0" expanded="true" />
+            <element signature="e#2323#2324#0" expanded="true" />
+            <element signature="e#4219#4220#0" expanded="true" />
+            <element signature="e#4247#4248#0" expanded="true" />
+            <element signature="e#4307#4308#0" expanded="true" />
+            <element signature="e#4335#4336#0" expanded="true" />
+            <element signature="e#4399#4400#0" expanded="true" />
+            <element signature="e#4427#4428#0" expanded="true" />
+            <element signature="e#4473#4474#0" expanded="true" />
+            <element signature="e#4500#4501#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/NewDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/TestSimpleDateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/UniquePair.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../laicode/string/src/ChoosePP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hashmap/src/HashMapFunctions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="525" column="20" selection-start-line="525" selection-start-column="20" selection-end-line="525" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/multithread.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/multithread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
