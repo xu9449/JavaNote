@@ -2,34 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c215611c-b1ad-4012-b95d-66babc7c0587" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hashmap/src/HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hashmap/src/HashMapFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java8/src/NewDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java8/src/TestSimpleDateFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithread/multithread.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithread/src/multithread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../laicode/string/src/ChoosePP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../laicode/string/src/RemoveCertainChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../laicode/string/string.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laicode/string/src/ReverseWorldSenten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laicode/string/src/StringReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laicode/string/src/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laicode/string/src/rightShift.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hange-interview01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hange-interview01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multithreaded/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multithreaded/.idea/dbnavigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multithreaded/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multithreaded/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multithreaded/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multithreaded/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multithreaded/multithreaded.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hashmap/hashmap.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multithreaded/out/production/multithreaded/MultiRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multithreaded/src/MultiRunnable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/OptionalClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/OptionalClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laicode/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laicode/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/src/multithread.java" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/src/multithread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../laicode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laicode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laicode/out/production/allvalidpermutationofparenthesesI/CombinationOfCoins.class" beforeDir="false" afterPath="$PROJECT_DIR$/../laicode/out/production/allvalidpermutationofparenthesesI/CombinationOfCoins.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laicode/out/production/string/ChoosePP.class" beforeDir="false" afterPath="$PROJECT_DIR$/../laicode/out/production/string/ChoosePP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laicode/string/src/ChoosePP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laicode/string/src/ChoosePP.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,12 +49,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="15" />
-          <entry key="java" value="3606" />
+          <entry key="java" value="5087" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3606" />
+          <entry key="JAVA" value="5087" />
           <entry key="PLAIN_TEXT" value="15" />
         </counts>
       </usages-collector>
@@ -92,8 +74,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/multithread/src/multithread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            <state relative-caret-position="814">
+              <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+              <folding>
+                <element signature="e#1012#1013#0" expanded="true" />
+                <element signature="e#1050#1051#0" expanded="true" />
+                <element signature="e#1970#1971#0" expanded="true" />
+                <element signature="e#2008#2009#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -215,7 +203,6 @@
         <option value="$PROJECT_DIR$/multithread/src/Multithread.java" />
         <option value="$PROJECT_DIR$/multithread/src/Multithreadd.java" />
         <option value="$PROJECT_DIR$/java8/src/OptionalClass.java" />
-        <option value="$PROJECT_DIR$/multithread/src/multithread.java" />
         <option value="$PROJECT_DIR$/hashmap/src/Implementation.java" />
         <option value="$PROJECT_DIR$/hashmap/src/HashMap.java" />
         <option value="$PROJECT_DIR$/java8/src/Date.java" />
@@ -223,14 +210,15 @@
         <option value="$PROJECT_DIR$/java8/src/TestSimpleDateFormat.java" />
         <option value="$PROJECT_DIR$/../laicode/string/src/ChoosePP.java" />
         <option value="$PROJECT_DIR$/hashmap/src/HashMapFunctions.java" />
+        <option value="$PROJECT_DIR$/multithread/src/multithread.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="57" />
-    <option name="y" value="106" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-773" />
+    <option name="y" value="61" />
     <option name="width" value="1350" />
-    <option name="height" value="957" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -271,13 +259,6 @@
               <item name="multithread" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="java_knowledge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="multithread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="multithread.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -285,7 +266,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592363985254" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592428910041" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -308,7 +289,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashMapFunctions">
+  <component name="RunManager" selected="Application.multithread">
     <configuration name="HashMapFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashMapFunctions" />
       <module name="hashmap" />
@@ -337,14 +318,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="multithread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithread" />
+      <module name="multithread" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.MultiRunnable" />
       <item itemvalue="Application.NewDate" />
       <item itemvalue="Application.TestSimpleDateFormat" />
       <item itemvalue="Application.HashMapFunctions" />
+      <item itemvalue="Application.multithread" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.multithread" />
         <item itemvalue="Application.HashMapFunctions" />
         <item itemvalue="Application.TestSimpleDateFormat" />
         <item itemvalue="Application.NewDate" />
@@ -366,9 +356,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="57" y="106" width="1350" height="957" extended-state="1" />
+    <frame x="-773" y="61" width="1350" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26911315" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10932722" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -381,7 +372,7 @@
       <window_info id="Learn" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32947975" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30481285" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -511,8 +502,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/multithread/src/multithread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        <state relative-caret-position="814">
+          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+          <folding>
+            <element signature="e#1012#1013#0" expanded="true" />
+            <element signature="e#1050#1051#0" expanded="true" />
+            <element signature="e#1970#1971#0" expanded="true" />
+            <element signature="e#2008#2009#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -2,34 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c779f9f-3f00-40ad-a088-baafaff9f634" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../java_knowledge/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_knowledge/hashmap/src/HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_knowledge/hashmap/src/HashMapFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_knowledge/java8/src/NewDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_knowledge/java8/src/TestSimpleDateFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_knowledge/multithread/multithread.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_knowledge/multithread/src/multithread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../laicode/string/src/ChoosePP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../laicode/string/src/RemoveCertainChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../laicode/string/string.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laicode/string/src/ReverseWorldSenten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laicode/string/src/StringReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laicode/string/src/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laicode/string/src/rightShift.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_knowledge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_knowledge/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_knowledge/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_knowledge/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java_knowledge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_knowledge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_knowledge/Multithreaded/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_knowledge/Multithreaded/.idea/dbnavigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_knowledge/Multithreaded/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_knowledge/Multithreaded/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_knowledge/Multithreaded/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_knowledge/Multithreaded/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_knowledge/Multithreaded/multithreaded.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_knowledge/hashmap/hashmap.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_knowledge/Multithreaded/out/production/multithreaded/MultiRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_knowledge/Multithreaded/src/MultiRunnable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_knowledge/java8/java8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_knowledge/java8/java8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_knowledge/java8/src/OptionalClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_knowledge/java8/src/OptionalClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laicode/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laicode/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_knowledge/multithread/src/multithread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_knowledge/multithread/src/multithread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../laicode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laicode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laicode/out/production/allvalidpermutationofparenthesesI/CombinationOfCoins.class" beforeDir="false" afterPath="$PROJECT_DIR$/../laicode/out/production/allvalidpermutationofparenthesesI/CombinationOfCoins.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laicode/out/production/string/ChoosePP.class" beforeDir="false" afterPath="$PROJECT_DIR$/../laicode/out/production/string/ChoosePP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laicode/string/src/ChoosePP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laicode/string/src/ChoosePP.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -231,6 +213,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="232" y="293" width="1350" height="957" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27293578" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
