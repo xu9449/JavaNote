@@ -7,7 +7,7 @@ public class CombinationOfCoins {
         CombinationOfCoins s = new CombinationOfCoins();
         int[] coins = {15, 10, 5};
         List<List<Integer>> res = new ArrayList<>();
-        res = s.combinations(100, coins);
+        res = s.combinations(99, coins);
         System.out.println(res);
     }
     public List<List<Integer>> combinations(int target, int[] coins) {
@@ -22,6 +22,14 @@ public class CombinationOfCoins {
         helper(coins, target, 0, cur, res);
         return res;
     }
+
+//    25， 10， 5， 1
+//  0 99
+//  0 74
+//  1 14
+//  2  4
+       
+
 //    // we don't need target instead of using both remain and target
 //    private void helper(int[] coins, int target, int index, List<Integer> cur, List<List<Integer>> res){
 //        if(target == 0 && index <= coins.length - 1){
@@ -33,10 +41,23 @@ public class CombinationOfCoins {
 //        for(int i = 0; i < coins.length; i++){
 //            int tem = cur.get(i);
 //            cur.set(i, ++tem);
-//            helper(coins, target - coins[i], i, cur, res);
+//            helper(coins, target - coins[i], index + 1, cur, res);
 //            cur.set(i, --tem);
 //        }
 //    }
+
+
+
+
+
+
+
+
+
+
+
+
+
     private void helper(int[] coins, int target, int index, List<Integer> cur, List<List<Integer>> res){
         if(index == coins.length - 1){
             if(target % coins[index] == 0){

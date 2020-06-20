@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c779f9f-3f00-40ad-a088-baafaff9f634" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../laicode/string/src/ReverseWorldSenten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../laicode/string/src/StringReplace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../laicode/string/src/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../laicode/string/src/rightShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laicode/string/src/ReOrderArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java_knowledge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_knowledge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_knowledge/multithread/src/multithread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_knowledge/multithread/src/multithread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../laicode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laicode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laicode/out/production/string/ChoosePP.class" beforeDir="false" afterPath="$PROJECT_DIR$/../laicode/out/production/string/ChoosePP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laicode/string/src/ChoosePP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laicode/string/src/ChoosePP.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +18,7 @@
     <session id="-1911746185">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="2" />
@@ -125,9 +119,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="232" />
-    <option name="y" value="293" />
+    <option name="y" value="323" />
     <option name="width" value="1350" />
     <option name="height" value="957" />
   </component>
@@ -212,8 +206,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="232" y="293" width="1350" height="957" extended-state="1" />
-    <editor active="true" />
+    <frame x="232" y="323" width="1350" height="957" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27293578" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

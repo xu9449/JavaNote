@@ -1,34 +1,37 @@
 import java.util.concurrent.Callable;
 /*
-Schedular： 定时器
-Cooperative: thread 之间合作关系，直到他完成。 问题：可能某个process挂掉了，就卡住了。
-Preemptive: 给一个time， 出现times out 转到下一个进程
 
-ThreadingModel：
-两个核心：
+Scheduling： 定时器
+i. Cooperative: thread 之间合作关系，直到他完成。
+cons：可能某个process挂掉了，就卡住了。
+pros: it is much cheaper and faster than others
+
+ii. Preemptive: 给一个time， 出现times out 转到下一个进程
+cons: it is necessity to store and restore the state that the interrupted task had
+
+Threading Model：
+
 Kernel-level: 1:1 Model(Kernel-Level)
 User-level: N:1 Model(User-Level)
 M:N Model(Hybrid Threading)
 
+Memory Model:
 Memory object Thread-safe
 i. lock
 ii. mutexes
 
 Thread LifeCycle
-
 Priority
-
 Stop Thread
 主线程中止其他线程容易在中间拦住，操作到一般中止
 run其实是一个life cycle
-
 Join thread
-
 Hibernate thread module
+
 
  */
 
-public class multithread {
+public class MultithreadI {
     public static void main(String[] args) {
 //        MyThread m1 = new MyThread();
 //        m1.start();
