@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e61e911a-fefb-4b02-a257-42875253eef2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../java_knowledge/dfs/dfs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_knowledge/dfs/src/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_knowledge/multithread/src/MultiThreadII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_knowledge/multithread/src/PoolThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_knowledge/multithread/src/RaceCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_knowledge/multithread/src/TestVolatile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_knowledge/multithread/src/ThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string/src/ReOrderArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hange-interview01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hange-interview01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_knowledge/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_knowledge/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_knowledge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_knowledge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_knowledge/multithread/src/multithread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_knowledge/multithread/src/MultithreadI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_knowledge/output/production/multithread/MyRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java_knowledge/output/production/multithread/MyRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_knowledge/output/production/multithread/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java_knowledge/output/production/multithread/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_knowledge/output/production/multithread/multithread.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allvalidpermutationofparenthesesI/src/CombinationOfCoins.java" beforeDir="false" afterPath="$PROJECT_DIR$/allvalidpermutationofparenthesesI/src/CombinationOfCoins.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/string/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/string/TestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/src/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/string/src/TestClass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,7 +15,7 @@
     <session id="342340087">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="2" />
@@ -41,7 +23,8 @@
           <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -73,7 +56,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/allvalidpermutationofparenthesesI/src/ValidParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
+            <state relative-caret-position="375">
               <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -82,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/allvalidpermutationofparenthesesI/src/CombinationOfCoins.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+              <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,7 +80,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/string/src/RemoveCertainChar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="105">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -151,11 +134,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/string/src/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            <state relative-caret-position="60">
+              <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -196,7 +179,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="668" />
+    <option name="x" value="330" />
     <option name="y" value="23" />
     <option name="width" value="1350" />
     <option name="height" value="1027" />
@@ -209,6 +192,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,12 +217,16 @@
               <item name="laicode" type="462c0819:PsiDirectoryNode" />
               <item name="string" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="laicode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laicode" type="462c0819:PsiDirectoryNode" />
+              <item name="string" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -325,10 +314,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="668" y="23" width="1350" height="1027" extended-state="0" />
+    <frame x="330" y="23" width="1350" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19266056" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19571866" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -445,7 +434,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/allvalidpermutationofparenthesesI/src/ValidParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
+        <state relative-caret-position="375">
           <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -455,7 +444,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/string/src/RemoveCertainChar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="105">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -491,6 +480,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/allvalidpermutationofparenthesesI/src/CombinationOfCoins.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/string/src/rightShift.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -507,18 +506,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/string/src/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/allvalidpermutationofparenthesesI/src/CombinationOfCoins.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
         </state>
       </provider>
     </entry>

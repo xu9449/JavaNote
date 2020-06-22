@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/hashmap/hashmap.iml" filepath="$PROJECT_DIR$/hashmap/hashmap.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java_knowledge.iml" filepath="$PROJECT_DIR$/.idea/java_knowledge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambdaExpression/lambdaExpression.iml" filepath="$PROJECT_DIR$/lambdaExpression/lambdaExpression.iml" />
       <module fileurl="file://$PROJECT_DIR$/multithread/multithread.iml" filepath="$PROJECT_DIR$/multithread/multithread.iml" />
     </modules>
   </component>
