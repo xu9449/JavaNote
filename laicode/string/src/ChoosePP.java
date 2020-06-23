@@ -14,9 +14,9 @@ public class ChoosePP {
         if (res >= 75 && res < 100) {
             System.out.println("Can");
         }
-        if (res >= 100 && res < 125) {
-            System.out.println("Runlai");
-        }
+//        if (res >= 100 && res < 125) {
+//            System.out.println("Runlai");
+//        }
 
 
     }
