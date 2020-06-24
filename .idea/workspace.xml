@@ -1,259 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="349327be-bcd1-45a0-bc9a-57dc8bb36aa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/heapSort/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heapSort/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heapSort/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heapSort/src/heapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petHelpStarter/src/main/resources/db/migration/V1.10_test_it.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petHelpStarter/src/main/resources/db/migration/V1.9_Test_DifferentLocation.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stringImmutable/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stringImmutable/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stringImmutable/StringImmutable.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Interesting-Algorithm-_-Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Java-basic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/BFS/bfs.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/BFS/bfs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/BinarySearch/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/BinarySearch/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/BinarySearch/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/BinarySearch/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/BinarySearch/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/BinarySearch/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/BinarySearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/BinarySearch/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/BinarySearch/BinarySearch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/BinarySearch/BinarySearch.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/BinarySearch/src/ClassicBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/BinarySearch/src/ClassicBinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/BinarySearch/src/ClosestTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/BinarySearch/src/ClosestTarget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/BinarySearch/src/FirstOccurrence.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/BinarySearch/src/FirstOccurrence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/BinarySearch/src/SearchSortedMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/BinarySearch/src/SearchSortedMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/DynamicProgramming/Egg.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/DynamicProgramming/Egg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/HeapAndGraphSearchIBFS/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/HeapAndGraphSearchIBFS/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/HeapAndGraphSearchIBFS/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/HeapAndGraphSearchIBFS/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/HeapAndGraphSearchIBFS/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/HeapAndGraphSearchIBFS/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/HeapAndGraphSearchIBFS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/HeapAndGraphSearchIBFS/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/HeapAndGraphSearchIBFS/HeapAndGraphSearchIBFS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/HeapAndGraphSearchIBFS/HeapAndGraphSearchIBFS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/HeapAndGraphSearchIBFS/src/KthSmallestNumberInSortedMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/HeapAndGraphSearchIBFS/src/KthSmallestNumberInSortedMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/HeapAndGraphSearchIBFS/src/kBiggestI.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/HeapAndGraphSearchIBFS/src/kBiggestI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Linkedlist/Reorder linked lis.docx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Linkedlist/Reorder linked lis.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/QueueAndStack/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/QueueAndStack/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/QueueAndStack/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/QueueAndStack/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/QueueAndStack/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/QueueAndStack/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/QueueAndStack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/QueueAndStack/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/QueueAndStack/QueueAndStack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/QueueAndStack/QueueAndStack.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/QueueAndStack/src/QueueByTwoStacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/QueueAndStack/src/QueueByTwoStacks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Recursion/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Recursion/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Recursion/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Recursion/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Recursion/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Recursion/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Recursion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Recursion/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Recursion/Recursion I &amp; Binary Search.md" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Recursion/Recursion I &amp; Binary Search.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Recursion/Recursion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Recursion/Recursion.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Recursion/out/production/Recursion/PalindromicSubstrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Recursion/out/production/Recursion/PalindromicSubstrings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Recursion/out/production/Recursion/PalindromicSubstringsII.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Recursion/out/production/Recursion/PalindromicSubstringsII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Recursion/out/production/Recursion/ShortestUnsortedContinuousSubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Recursion/out/production/Recursion/ShortestUnsortedContinuousSubarray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Recursion/src/PalindromicSubstrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Recursion/src/PalindromicSubstrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Recursion/src/PalindromicSubstringsII.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Recursion/src/PalindromicSubstringsII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Recursion/src/ShortestUnsortedContinuousSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Recursion/src/ShortestUnsortedContinuousSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Sorting/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Sorting/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Sorting/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Sorting/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Sorting/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Sorting/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Sorting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Sorting/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Sorting/Merge Sort.docx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Sorting/Merge Sort.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Sorting/Sorting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Sorting/Sorting.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Sorting/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Sorting/Sorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Sorting/out/production/Sorting/MergeSorteddArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Sorting/out/production/Sorting/MergeSorteddArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Sorting/out/production/Sorting/RplaceSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Sorting/out/production/Sorting/RplaceSpace.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Sorting/src/MergeSorteddArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Sorting/src/MergeSorteddArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Sorting/src/RplaceSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Sorting/src/RplaceSpace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Support/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Support/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Support/factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Support/factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Support/lambdaExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/Support/lambdaExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon OA/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/amazonOA/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon OA/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/amazonOA/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon OA/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/amazonOA/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon OA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/amazonOA/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon OA/Amazon OA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/amazonOA/Amazon OA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon OA/out/production/Amazon OA/AmazonsumClosest$Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/amazonOA/out/production/Amazon OA/AmazonsumClosest$Pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon OA/out/production/Amazon OA/AmazonsumClosest.class" beforeDir="false" afterPath="$PROJECT_DIR$/amazonOA/out/production/Amazon OA/AmazonsumClosest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon OA/src/AmazonsumClosest.java" beforeDir="false" afterPath="$PROJECT_DIR$/amazonOA/src/AmazonsumClosest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon OA/src/mergeFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/amazonOA/src/mergeFiles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon OA/src/optimalUtilization.java" beforeDir="false" afterPath="$PROJECT_DIR$/amazonOA/src/optimalUtilization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon OA/src/reorderLogFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/amazonOA/src/reorderLogFiles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon OA/src/treasureIsland.java" beforeDir="false" afterPath="$PROJECT_DIR$/amazonOA/src/treasureIsland.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/heapSort/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/DesignPatern/BuildPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/DesignPatern/BuildPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/DesignPatern/DesignPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/DesignPatern/DesignPattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/DesignPatern/Desk.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/DesignPatern/Desk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/DesignPatern/FacoryPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/DesignPatern/FacoryPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/DesignPatern/PrototypePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/DesignPatern/PrototypePattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/Reflection/BasicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/Reflection/BasicTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/Reflection/ClassReflection.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/Reflection/ClassReflection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/Reflection/MyAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/Reflection/MyAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/Reflection/Reflection.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/Reflection/Reflection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/Reflection/annotationClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/Reflection/annotationClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/01 Sorting-SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/01 Sorting-SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/02-Sorting-MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/02-Sorting-MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/02-Sorting-Quicksort.java" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/02-Sorting-Quicksort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/03-Sorting-InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/03-Sorting-InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/03-Sorting-LinearSearch" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/03-Sorting-LinearSearch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/03-sum-BinarySum" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/03-sum-BinarySum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/0307" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/0307" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/07:14" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/07:14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/Binary Search" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/Binary Search" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/Closest In Sorted Array" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/Closest In Sorted Array" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/Day01-0422" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/Day01-0422" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/First Occurrence" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/First Occurrence" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/Goldbach's conjecture" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/Goldbach's conjecture" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/ImplementStackbyUsingQueue" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/ImplementStackbyUsingQueue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/Java Parameter Passing" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/Java Parameter Passing" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/K Closest In Sorted Array" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/K Closest In Sorted Array" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/KSmallestI" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/KSmallestI" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/LinkedList insert" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/LinkedList insert" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/MinStack_1" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/MinStack_1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/MinStack_2" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/MinStack_2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/QueueByStacks" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/QueueByStacks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/Recursion" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/Recursion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/Search In Unknown Sized" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/Search In Unknown Sized" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/Search in Sorted Matrix I" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/Search in Sorted Matrix I" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/ShuffleStack" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/ShuffleStack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/Simple" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/Simple" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/TwoQueueStack" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/TwoQueueStack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/TwoStackQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/TwoStackQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/arrayInsert" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/arrayInsert" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/binartytree search" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/binartytree search" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/minHeap" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/minHeap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/minValue" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/minValue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/pc06-LinkedList-Stack-Queue-Deque.java" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/pc06-LinkedList-Stack-Queue-Deque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/quickSort" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/quickSort" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/rainbowSort" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/rainbowSort" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/reverseLinkedlist" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/reverseLinkedlist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laioffer Code/reverseLinkedlist(recursion)" beforeDir="false" afterPath="$PROJECT_DIR$/laiofferCode/reverseLinkedlist(recursion)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/heapSort/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/heapSort/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/Leetcode300.iml" beforeDir="false" afterPath="$PROJECT_DIR$/heapSort/heapSort.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/BinarySearch2DArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/BinarySearch2DArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/CombinationsOfCoins.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/CombinationsOfCoins.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/DailyTemperature$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/DailyTemperature$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/DailyTemperature.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/DailyTemperature.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/DuplicateElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/DuplicateElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/FindFirstandLastPosition.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/FindFirstandLastPosition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/HeapImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/HeapImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/KthElementInArray$KSmallest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/KthElementInArray$KSmallest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/KthElementInArray$KSmallest.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/KthElementInArray$KSmallest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/KthElementInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/KthElementInArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/KthSmallestInUnsortedArray$Smallest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/KthSmallestInUnsortedArray$Smallest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/KthSmallestInUnsortedArray$Smallest.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/KthSmallestInUnsortedArray$Smallest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/KthSmallestInUnsortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/KthSmallestInUnsortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/MaxAreaOfIsland.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/MaxAreaOfIsland.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/MaximumBinaryTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/MaximumBinaryTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/MaximumBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/MaximumBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/ParenthesesI.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/ParenthesesI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/SearchInRoatatedSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/SearchInRoatatedSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/SelectionSort$SortingAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/SelectionSort$SortingAlgorithm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/SelectionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/SortWithTwoStack$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/SortWithTwoStack$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/SortWithTwoStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/SortWithTwoStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/out/production/Leetcode300/hangeHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/out/production/Leetcode300/hangeHeap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/src/BinarySearch2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/src/BinarySearch2DArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/src/BinaryTreeIsCompleted.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/src/BinaryTreeIsCompleted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/src/BinaryTreePreorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/src/BinaryTreePreorder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/src/Bipartite.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/src/Bipartite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/src/CombinationsOfCoins.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/src/CombinationsOfCoins.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/src/DailyTemperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/src/DailyTemperature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/src/DuplicateElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/src/DuplicateElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/src/FindFirstandLastPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/src/FindFirstandLastPosition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/src/HeapImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/src/HeapImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/src/KthElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/src/KthElementInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/src/KthSmallestInUnsortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/src/KthSmallestInUnsortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/src/KthSmallestNumberInSortedMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/src/KthSmallestNumberInSortedMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/src/MaxAreaOfIsland.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/src/MaxAreaOfIsland.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/src/MaximumBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/src/MaximumBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/src/ParenthesesI.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/src/ParenthesesI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/src/SearchInRoatatedSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/src/SearchInRoatatedSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/src/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/src/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/src/SortWithTwoStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/src/SortWithTwoStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/src/getKeysInBinaryTreeLayerByLayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/src/getKeysInBinaryTreeLayerByLayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode300/src/hangeHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/src/hangeHeap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyNote/03:02" beforeDir="false" afterPath="$PROJECT_DIR$/myNote/03:02" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyNote/Queue &amp; Stack" beforeDir="false" afterPath="$PROJECT_DIR$/myNote/Queue &amp; Stack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyNote/Variant 1.4 return how to find closest k elements in the array that is closest to a target number?" beforeDir="false" afterPath="$PROJECT_DIR$/myNote/Variant 1.4 return how to find closest k elements in the array that is closest to a target number?" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflection/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflection/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/reflection/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflection/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/reflection/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflection/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/reflection/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflection/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/reflection/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflection/Reflection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode300/Leetcode300.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflection/out/production/Reflection/MyAnnotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/reflection/out/production/Reflection/MyAnnotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflection/out/production/Reflection/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/reflection/out/production/Reflection/Pet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflection/out/production/Reflection/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/reflection/out/production/Reflection/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflection/out/production/Reflection/TheClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/reflection/out/production/Reflection/TheClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflection/src/MyAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/reflection/src/MyAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflection/src/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/reflection/src/Pet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflection/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/reflection/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflection/src/TheClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/reflection/src/TheClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringImmutable/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/reflection/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringImmutable/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stringImmutable/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringImmutable/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stringImmutable/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringImmutable/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stringImmutable/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringImmutable/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/reflection/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringImmutable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stringImmutable/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringImmutable/StringImmutable.iml" beforeDir="false" afterPath="$PROJECT_DIR$/reflection/Reflection.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringImmutable/src/MutableLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/stringImmutable/src/MutableLocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_knowledge/Dependency Injection/src/DI.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_knowledge/Dependency Injection/src/DI.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="496429116">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="iml" value="1" />
-          <entry key="java" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="83" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="83" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -265,44 +43,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/heapSort/src/HeapSort.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2761" />
-    <option name="y" value="50" />
-    <option name="width" value="1153" />
-    <option name="height" value="957" />
-  </component>
+  <component name="ProjectId" id="1dkY8ssumAQ6aqXIFGjRzehbVXM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="HeapSorting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interesting-Algorithm-_-Java" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587771570164" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -311,18 +68,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/heapSort" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -348,63 +93,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587763504472</updated>
+      <workItem from="1592970406834" duration="509000" />
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="2761" y="50" width="1153" height="957" extended-state="0" />
-    <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="DB Browser" />
-      <window_info id="UI Designer" />
-      <window_info id="Project Explorer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Job Explorer" />
-      <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24932493" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Log Viewer" />
-      <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Anonymous Apex" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="SOQL Query" />
-      <window_info anchor="bottom" id="Console" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32947975" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/heapSort/HeapSorting.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/heapSort/src/heapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="9" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="masterDetails">
     <states>
