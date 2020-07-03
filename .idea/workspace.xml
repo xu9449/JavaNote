@@ -20,8 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="349327be-bcd1-45a0-bc9a-57dc8bb36aa8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Test/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/errorhandling/errorhandling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/errorhandling/src/TryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/lambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/Lambdatest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regularexpression/regularexpression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regularexpression/src/RegularExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java-basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java-basic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_knowledge/Dependency Injection/src/DI.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_knowledge/Dependency Injection/src/DI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +66,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587771570164" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -64,7 +75,7 @@
       <recent name="$PROJECT_DIR$/heapSort" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TryCatch">
     <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HeapSort" />
       <module name="HeapSorting" />
@@ -72,8 +83,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lambdatest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambdatest" />
+      <module name="lambda" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegularExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegularExpression" />
+      <module name="regularexpression" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TryCatch" />
+      <module name="errorhandling" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TryCatch" />
+        <item itemvalue="Application.RegularExpression" />
+        <item itemvalue="Application.Lambdatest" />
         <item itemvalue="Application.HeapSort" />
       </list>
     </recent_temporary>
@@ -88,7 +123,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587763504472</updated>
-      <workItem from="1592970406834" duration="1416000" />
+      <workItem from="1592970406834" duration="1566000" />
+      <workItem from="1593017125865" duration="25000" />
+      <workItem from="1593365610585" duration="1202000" />
+      <workItem from="1593544801108" duration="1211000" />
+      <workItem from="1593547892197" duration="6445000" />
+      <workItem from="1593636201750" duration="4356000" />
+      <workItem from="1593705777454" duration="1751000" />
     </task>
     <servers />
   </component>
@@ -105,92 +146,96 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>10</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>HeapSorting</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>10</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="44" y="213" key="#Project_Structure" timestamp="1593547880268">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="-1052" y="541" key="#Project_Structure/0.0.1680.1050/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1593547832052" />
+    <state x="44" y="213" key="#Project_Structure/0.23.1680.1027/-1080.23.1080.1897@0.23.1680.1027" timestamp="1593547880268" />
+    <state x="-1080" y="0" width="1080" height="1920" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593547745407">
+      <screen x="-1080" y="0" width="1080" height="1920" />
+    </state>
+    <state x="-1080" y="0" width="1080" height="1920" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1593547745407" />
+    <state x="-374" y="765" key="#com.intellij.ide.util.MemberChooser" timestamp="1593550203874">
+      <screen x="-1080" y="0" width="1080" height="1920" />
+    </state>
+    <state x="-374" y="765" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1593550203874" />
+    <state x="1231" y="432" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027/-1080.23.1080.1897@0.23.1680.1027" timestamp="1593547261874" />
+    <state width="1038" height="265" key="GridCell.Tab.0.bottom" timestamp="1593706598898">
+      <screen x="-1080" y="23" width="1080" height="1897" />
+    </state>
+    <state width="1038" height="581" key="GridCell.Tab.0.bottom/0.0.1680.1050/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1593550432038" />
+    <state width="1038" height="265" key="GridCell.Tab.0.bottom/0.23.1680.1027/-1080.23.1080.1897@-1080.23.1080.1897" timestamp="1593706598898" />
+    <state width="1228" height="279" key="GridCell.Tab.0.bottom/0.23.1680.1027/-1080.23.1080.1897@0.23.1680.1027" timestamp="1593566338377" />
+    <state width="1228" height="589" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1593579757753" />
+    <state width="1038" height="265" key="GridCell.Tab.0.center" timestamp="1593706598897">
+      <screen x="-1080" y="23" width="1080" height="1897" />
+    </state>
+    <state width="1038" height="581" key="GridCell.Tab.0.center/0.0.1680.1050/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1593550432036" />
+    <state width="1038" height="265" key="GridCell.Tab.0.center/0.23.1680.1027/-1080.23.1080.1897@-1080.23.1080.1897" timestamp="1593706598897" />
+    <state width="1228" height="279" key="GridCell.Tab.0.center/0.23.1680.1027/-1080.23.1080.1897@0.23.1680.1027" timestamp="1593566338376" />
+    <state width="1228" height="589" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1593579757751" />
+    <state width="1038" height="265" key="GridCell.Tab.0.left" timestamp="1593706598897">
+      <screen x="-1080" y="23" width="1080" height="1897" />
+    </state>
+    <state width="1038" height="581" key="GridCell.Tab.0.left/0.0.1680.1050/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1593550432035" />
+    <state width="1038" height="265" key="GridCell.Tab.0.left/0.23.1680.1027/-1080.23.1080.1897@-1080.23.1080.1897" timestamp="1593706598897" />
+    <state width="1228" height="279" key="GridCell.Tab.0.left/0.23.1680.1027/-1080.23.1080.1897@0.23.1680.1027" timestamp="1593566338375" />
+    <state width="1228" height="589" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1593579757751" />
+    <state width="1038" height="265" key="GridCell.Tab.0.right" timestamp="1593706598898">
+      <screen x="-1080" y="23" width="1080" height="1897" />
+    </state>
+    <state width="1038" height="581" key="GridCell.Tab.0.right/0.0.1680.1050/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1593550432037" />
+    <state width="1038" height="265" key="GridCell.Tab.0.right/0.23.1680.1027/-1080.23.1080.1897@-1080.23.1080.1897" timestamp="1593706598898" />
+    <state width="1228" height="279" key="GridCell.Tab.0.right/0.23.1680.1027/-1080.23.1080.1897@0.23.1680.1027" timestamp="1593566338376" />
+    <state width="1228" height="589" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1593579757752" />
+    <state width="1228" height="589" key="GridCell.Tab.1.bottom" timestamp="1593698353142">
+      <screen x="-1080" y="23" width="1080" height="1897" />
+    </state>
+    <state width="1038" height="346" key="GridCell.Tab.1.bottom/0.0.1680.1050/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1593548581032" />
+    <state width="1228" height="589" key="GridCell.Tab.1.bottom/0.23.1680.1027/-1080.23.1080.1897@-1080.23.1080.1897" timestamp="1593698353142" />
+    <state width="1228" height="589" key="GridCell.Tab.1.bottom/0.23.1680.1027/-1080.23.1080.1897@0.23.1680.1027" timestamp="1593565546411" />
+    <state width="1228" height="589" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1593579757756" />
+    <state width="1228" height="589" key="GridCell.Tab.1.center" timestamp="1593698353142">
+      <screen x="-1080" y="23" width="1080" height="1897" />
+    </state>
+    <state width="1038" height="346" key="GridCell.Tab.1.center/0.0.1680.1050/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1593548581029" />
+    <state width="1228" height="589" key="GridCell.Tab.1.center/0.23.1680.1027/-1080.23.1080.1897@-1080.23.1080.1897" timestamp="1593698353142" />
+    <state width="1228" height="589" key="GridCell.Tab.1.center/0.23.1680.1027/-1080.23.1080.1897@0.23.1680.1027" timestamp="1593565546410" />
+    <state width="1228" height="589" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1593579757754" />
+    <state width="1228" height="589" key="GridCell.Tab.1.left" timestamp="1593698353142">
+      <screen x="-1080" y="23" width="1080" height="1897" />
+    </state>
+    <state width="1038" height="346" key="GridCell.Tab.1.left/0.0.1680.1050/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1593548581028" />
+    <state width="1228" height="589" key="GridCell.Tab.1.left/0.23.1680.1027/-1080.23.1080.1897@-1080.23.1080.1897" timestamp="1593698353142" />
+    <state width="1228" height="589" key="GridCell.Tab.1.left/0.23.1680.1027/-1080.23.1080.1897@0.23.1680.1027" timestamp="1593565546409" />
+    <state width="1228" height="589" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1593579757754" />
+    <state width="1228" height="589" key="GridCell.Tab.1.right" timestamp="1593698353142">
+      <screen x="-1080" y="23" width="1080" height="1897" />
+    </state>
+    <state width="1038" height="346" key="GridCell.Tab.1.right/0.0.1680.1050/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1593548581031" />
+    <state width="1228" height="589" key="GridCell.Tab.1.right/0.23.1680.1027/-1080.23.1080.1897@-1080.23.1080.1897" timestamp="1593698353142" />
+    <state width="1228" height="589" key="GridCell.Tab.1.right/0.23.1680.1027/-1080.23.1080.1897@0.23.1680.1027" timestamp="1593565546410" />
+    <state width="1228" height="589" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1593579757755" />
+    <state x="-1080" y="23" width="1080" height="1015" key="new project wizard" timestamp="1593705802011">
+      <screen x="-1080" y="23" width="1080" height="1897" />
+    </state>
+    <state x="-830" y="0" key="new project wizard/0.0.1680.1050/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1593637167487" />
+    <state x="-1080" y="23" width="1080" height="1015" key="new project wizard/0.23.1680.1027/-1080.23.1080.1897@-1080.23.1080.1897" timestamp="1593705802011" />
+    <state x="389" y="23" width="1291" height="1027" key="new project wizard/0.23.1680.1027/-1080.23.1080.1897@0.23.1680.1027" timestamp="1593547114210" />
+    <state x="1280" y="23" width="1280" height="1057" key="new project wizard/0.23.2560.1057@0.23.2560.1057" timestamp="1593368586455" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/regularexpression/src/RegularExpression.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

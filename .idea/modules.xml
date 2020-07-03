@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-basic.iml" filepath="$PROJECT_DIR$/.idea/Java-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/errorhandling/errorhandling.iml" filepath="$PROJECT_DIR$/errorhandling/errorhandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/regularexpression/regularexpression.iml" filepath="$PROJECT_DIR$/regularexpression/regularexpression.iml" />
     </modules>
   </component>
 </project>
