@@ -9,19 +9,19 @@ public class TryCatch {
                 count++;//2
                 try{
                     count++; //3
-                    throw new IOException();
+                    throw new Exception();
                 } catch (IOException ex){
                     count++; //4
-//                    System.out.println("test1");
+                    System.out.println("test1");
                     throw ex;
                 } catch (Exception ex){
-                    count++;
-//                    System.out.println("test2");
+                    count++;//5
+                    System.out.println("test2");
                     throw new Exception();
                 }
             }catch (Exception ex){
-                count++;// 5
-//                System.out.println("test3");
+                count++;//6
+                System.out.println("test3");
             }
         }
         finally {
