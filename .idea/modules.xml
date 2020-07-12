@@ -4,11 +4,15 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-basic.iml" filepath="$PROJECT_DIR$/.idea/Java-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/enum/enum.iml" filepath="$PROJECT_DIR$/enum/enum.iml" />
-      <module fileurl="file://$PROJECT_DIR$/errorhandling/errorhandling.iml" filepath="$PROJECT_DIR$/errorhandling/errorhandling.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
-      <module fileurl="file://$PROJECT_DIR$/multithread/multithread.iml" filepath="$PROJECT_DIR$/multithread/multithread.iml" />
-      <module fileurl="file://$PROJECT_DIR$/regularexpression/regularexpression.iml" filepath="$PROJECT_DIR$/regularexpression/regularexpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basic/enum/enum.iml" filepath="$PROJECT_DIR$/java_basic/enum/enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basic/errorhandling/errorhandling.iml" filepath="$PROJECT_DIR$/java_basic/errorhandling/errorhandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basic/garbageCollection.iml" filepath="$PROJECT_DIR$/java_basic/garbageCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basic/garbage_collection.iml" filepath="$PROJECT_DIR$/java_basic/garbage_collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/garbage_collection2/garbage_collection2.iml" filepath="$PROJECT_DIR$/garbage_collection2/garbage_collection2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basic/java_basic.iml" filepath="$PROJECT_DIR$/java_basic/java_basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basic/multithread/multithread.iml" filepath="$PROJECT_DIR$/java_basic/multithread/multithread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basic/nginx/nginx.iml" filepath="$PROJECT_DIR$/java_basic/nginx/nginx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basic/regularexpression/regularexpression.iml" filepath="$PROJECT_DIR$/java_basic/regularexpression/regularexpression.iml" />
     </modules>
   </component>
 </project>
